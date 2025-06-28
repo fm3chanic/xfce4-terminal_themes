@@ -13,8 +13,11 @@ You can find [further information](https://github.com/fm3chanic/vtuber_project) 
 
 ### Installation:
 
-Copy the theme file to `~/.local/share/xfce4/terminal/colorschemes` and restart the application. It might be necessary to create the folders first as `/xfce4/terminal/colorschemes` might be missing in `~/.local/share`.<br>
+Copy the theme file to `~/.local/share/xfce4/terminal/colorschemes` and restart the application.<br>
 The theme should now be selectable in the "Colors" tab of the "Preferences" as one of the preset colorschemes
+
+> [!NOTE]
+> It might be necessary to create the folders first as `/xfce4/terminal/colorschemes` might be missing in `~/.local/share`.
 
 ### Contribution:
 
