@@ -1,6 +1,6 @@
 [Scheme]
 Name=shylily-light
-ColorCursor=#322d52
-ColorForeground=#322d52
-ColorBackground=#e0deed
-ColorPalette=#b2add2;#bf4040;#bf4080;#4060bf;#4080bf;#b34db3;#398fac;#322d52;#a19cc9;#d27979;#d279a6;#798fd2;#79a6d2;#c982c9;#66b3cc;#1e1b31
+ColorCursor=#203360
+ColorForeground=#203360
+ColorBackground=#cdcde4
+ColorPalette=#acacd2;#862d86;#3e248f;#8e2559;#24748f;#862d2d;#2d4386;#203360;#8b99c1;#ac39ac;#502eb8;#b62f73;#2e95b8;#ac3939;#3956ac;#0f1e3d

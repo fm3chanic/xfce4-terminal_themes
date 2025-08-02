@@ -1,6 +1,6 @@
 [Scheme]
 Name=vedal987-evil-light
-ColorCursor=#59263c
-ColorForeground=#59263c
-ColorBackground=#f2eef7
-ColorPalette=#bda8d6;#c65353;#c6537d;#5353c6;#9653c6;#c65398;#538ac6;#59263c;#b097ce;#d98c8c;#d98ca8;#8c8cd9;#b98cd9;#d98cba;#8cb1d9;#361724
+ColorCursor=#602034
+ColorForeground=#602034
+ColorBackground=#d9d9d9
+ColorPalette=#bfbfbf;#2d2d86;#862d2d;#862d86;#983a1b;#592d86;#981b59;#602034;#c18b9c;#3939ac;#ac3939;#ac39ac;#c34b22;#7339ac;#c32273;#3d0f1e

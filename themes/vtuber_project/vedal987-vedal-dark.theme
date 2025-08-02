@@ -1,6 +1,6 @@
 [Scheme]
 Name=vedal987-vedal-dark
-ColorCursor=#a4df9f
-ColorForeground=#a4df9f
-ColorBackground=#141f16
-ColorPalette=#283e2c;#bd75a4;#bd75bd;#6f95c3;#75abbd;#9975bd;#75bdab;#a4df9f;#3c5d42;#d6a9c6;#d6a9d6;#a5bdd9;#a9cad6;#bfa9d6;#a9d6ca;#c8ecc6
+ColorCursor=#a6df9f
+ColorForeground=#a6df9f
+ColorBackground=#1b3127
+ColorPalette=#2d5242;#d98c9f;#c6d98c;#d98cc6;#8cd9c6;#c68cd9;#8cd98c;#a6df9f;#44733f;#e6b3bf;#d9e6b3;#e6b3d9;#b3e6d9;#d9b3e6;#b3e6b3;#c6f0c2

@@ -1,6 +1,6 @@
 [Scheme]
 Name=vedal987-neuro-light
-ColorCursor=#4c3434
-ColorForeground=#4c3434
-ColorBackground=#f9e6d2
-ColorPalette=#f3cda5;#DF3462;#9a49d0;#4564d3;#41a4a1;#4b6c9b;#2ba17e;#4c3434;#f0c18f;#e76587;#b579dc;#98a9e7;#7fccca;#87a1c5;#5ed4b1;#2e1f1f
+ColorCursor=#603420
+ColorForeground=#603420
+ColorBackground=#f6dabc
+ColorPalette=#f0c18f;#253f8e;#9c7b16;#1b7898;#983a1b;#258e59;#a15c12;#603420;#c1998b;#2f51b6;#c99e1d;#229bc3;#c34b22;#2fb673;#cf7617;#3d1e0f
