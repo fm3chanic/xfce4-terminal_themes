@@ -1,6 +1,6 @@
 [Scheme]
 Name=ellie-minibot-light
-ColorCursor=#205160
-ColorForeground=#205160
-ColorBackground=#d5d5dd
-ColorPalette=#b8b8c6;#2d2d86;#aa5908;#1b9898;#998a00;#1b5998;#aa7a08;#205160;#8bb5c1;#3939ac;#db730a;#22c3c3;#ccb800;#2273c3;#db9d0a;#0f323d
+ColorCursor=#34394b
+ColorForeground=#34394b
+ColorBackground=#d5d7dd
+ColorPalette=#b8bcc6;#1b647e;#917a08;#178282;#8a670f;#263773;#8a4d0f;#34394b;#9ca1b0;#2485a8;#c2a30a;#1fadad;#b88914;#334999;#b86614;#1f222d
