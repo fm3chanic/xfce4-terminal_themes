@@ -1,0 +1,6 @@
+[Scheme]
+Name=high-contrast
+ColorCursor=#cccccc
+ColorForeground=#cccccc
+ColorBackground=#000000
+ColorPalette=#333333;#ff0000;#ff00ff;#0080ff;#00ffff;#ffff00;#00ff00;#cccccc;#4d4d4d;#ff9999;#ff99ff;#99ccff;#99ffff;#ffff99;#99ff99;#ffffff
