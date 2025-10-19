@@ -1,6 +1,6 @@
 [Scheme]
 Name=zentraya-dragon
-ColorCursor=#dfa69f
-ColorForeground=#dfa69f
+ColorCursor=#c98982
+ColorForeground=#f0c6c2
 ColorBackground=#2c2321
-ColorPalette=#493a37;#f7d56e;#f76eb3;#f7b36e;#f76e90;#f7906e;#f76e6e;#dfa69f;#74433e;#fae39e;#fa9ecc;#facc9e;#fa9eb5;#fab59e;#fa9e9e;#f0c6c2
+ColorPalette=#493a37;#f7d56e;#f76e90;#f7906e;#f76e6e;#f76eb3;#f7b36e;#f0c6c2;#493a37;#f7d56e;#f76e90;#f7906e;#f76e6e;#f76eb3;#f7b36e;#f0c6c2

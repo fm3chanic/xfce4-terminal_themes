@@ -1,6 +1,6 @@
 [Scheme]
 Name=forest-bamboo
-ColorCursor=#425742
-ColorForeground=#425742
+ColorCursor=#587458
+ColorForeground=#2c3a2c
 ColorBackground=#cee4ce
-ColorPalette=#add2ad;#0f8a38;#5e8217;#77773c;#267326;#006666;#2d8659;#425742;#98b398;#14b84b;#7ead1f;#99994d;#339933;#009999;#39ac73;#2c3a2c
+ColorPalette=#add2ad;#0f8a38;#267326;#006666;#2d8659;#5e8217;#77773c;#2c3a2c;#add2ad;#0f8a38;#267326;#006666;#2d8659;#5e8217;#77773c;#2c3a2c

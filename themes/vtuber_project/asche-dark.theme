@@ -1,6 +1,6 @@
 [Scheme]
 Name=asche-dark
-ColorCursor=#adbea7
-ColorForeground=#adbea7
+ColorCursor=#92a88a
+ColorForeground=#c8d4c4
 ColorBackground=#211712
-ColorPalette=#422e24;#82c9a6;#b89494;#82c982;#b8af94;#a6c982;#c9a782;#adbea7;#475841;#a6d9bf;#ccb3b3;#a6d9a6;#ccc6b3;#bfd9a6;#d9c0a6;#c8d4c4
+ColorPalette=#422e24;#82c9a6;#b8af94;#a6c982;#c9a782;#b89494;#82c982;#c8d4c4;#422e24;#82c9a6;#b8af94;#a6c982;#c9a782;#b89494;#82c982;#c8d4c4

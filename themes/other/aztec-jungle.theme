@@ -1,6 +1,6 @@
 [Scheme]
 Name=aztec-jungle
-ColorCursor=#d4cbc4
-ColorForeground=#d4cbc4
+ColorCursor=#c9beb5
+ColorForeground=#eae5e1
 ColorBackground=#3b322b
-ColorPalette=#594b40;#ac5353;#ac5380;#53ac96;#99b34d;#b3804d;#4db366;#d4cbc4;#766456;#cd9898;#cd98b3;#98cdc0;#b8c982;#d1b394;#94d1a3;#eae5e1
+ColorPalette=#594b40;#ac5353;#99b34d;#b3804d;#4db366;#ac5380;#53ac96;#eae5e1;#594b40;#ac5353;#99b34d;#b3804d;#4db366;#ac5380;#53ac96;#eae5e1

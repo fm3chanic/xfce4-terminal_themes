@@ -1,6 +1,6 @@
 [Scheme]
 Name=dokibird
-ColorCursor=#ecd493
-ColorForeground=#ecd493
+ColorCursor=#dbc170
+ColorForeground=#f9e7b8
 ColorBackground=#262626
-ColorPalette=#404040;#75b3f0;#75f075;#75f0f0;#b3f075;#75f0b3;#f0f075;#ecd493;#3d7663;#a3ccf5;#a3f5a3;#a3f5f5;#ccf5a3;#a3f5cc;#f5f5a3;#f9e7b8
+ColorPalette=#404040;#75b3f0;#b3f075;#75f0b3;#f0f075;#75f075;#75f0f0;#f9e7b8;#404040;#75b3f0;#b3f075;#75f0b3;#f0f075;#75f075;#75f0f0;#f9e7b8

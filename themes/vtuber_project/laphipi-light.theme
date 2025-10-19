@@ -1,6 +1,6 @@
 [Scheme]
 Name=laphipi-light
-ColorCursor=#333333
-ColorForeground=#333333
+ColorCursor=#4d4d4d
+ColorForeground=#1a1a1a
 ColorBackground=#ecc6ec
-ColorPalette=#df9fdf;#1f1f7a;#821717;#7a361f;#82174d;#4d0f8a;#821782;#333333;#b894b8;#2a2aa2;#ad1f1f;#a2482a;#ad1f66;#6614b8;#ad1fad;#1a1a1a
+ColorPalette=#df9fdf;#1f1f7a;#82174d;#4d0f8a;#821782;#821717;#7a361f;#1a1a1a;#df9fdf;#1f1f7a;#82174d;#4d0f8a;#821782;#821717;#7a361f;#1a1a1a

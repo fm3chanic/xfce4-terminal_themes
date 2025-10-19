@@ -1,6 +1,6 @@
 [Scheme]
 Name=jinja-dark-red
-ColorCursor=#d98c9f
-ColorForeground=#d98c9f
+ColorCursor=#c27085
+ColorForeground=#ebadbc
 ColorBackground=#29222a
-ColorPalette=#453947;#ffe166;#e87db3;#e8867d;#e87de8;#ffc766;#ff6673;#d98c9f;#633641;#ffeb99;#f0a8cc;#f0aea8;#f0a8f0;#ffda99;#ff99a2;#ebadbc
+ColorPalette=#453947;#ffe166;#e87de8;#ffc766;#ff6673;#e87db3;#e8867d;#ebadbc;#453947;#ffe166;#e87de8;#ffc766;#ff6673;#e87db3;#e8867d;#ebadbc

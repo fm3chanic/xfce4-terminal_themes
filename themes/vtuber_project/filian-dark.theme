@@ -1,6 +1,6 @@
 [Scheme]
 Name=filian-dark
-ColorCursor=#c0b6c9
-ColorForeground=#c0b6c9
+ColorCursor=#a798b3
+ColorForeground=#d9d3de
 ColorBackground=#1b1b32
-ColorPalette=#2d2d53;#66c2ff;#d966ff;#ff66b3;#6666ff;#b366ff;#ff6666;#c0b6c9;#5a4c67;#99d6ff;#e699ff;#ff99cc;#9999ff;#cc99ff;#ff9999;#d9d3de
+ColorPalette=#2d2d53;#66c2ff;#6666ff;#b366ff;#ff6666;#d966ff;#ff66b3;#d9d3de;#2d2d53;#66c2ff;#6666ff;#b366ff;#ff6666;#d966ff;#ff66b3;#d9d3de

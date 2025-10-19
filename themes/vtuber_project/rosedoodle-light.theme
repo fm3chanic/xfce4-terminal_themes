@@ -1,6 +1,6 @@
 [Scheme]
 Name=rosedoodle-light
-ColorCursor=#3c235c
-ColorForeground=#3c235c
+ColorCursor=#54367d
+ColorForeground=#230f3d
 ColorBackground=#e4cde2
-ColorPalette=#d2accf;#7e7e1b;#1f5993;#93591f;#1b7e7e;#8a6b0f;#1f7a4d;#3c235c;#94b8af;#a8a824;#2873bd;#bd7328;#24a8a8;#b88f14;#2aa266;#230f3d
+ColorPalette=#d2accf;#7e7e1b;#1b7e7e;#8a6b0f;#1f7a4d;#1f5993;#93591f;#230f3d;#d2accf;#7e7e1b;#1b7e7e;#8a6b0f;#1f7a4d;#1f5993;#93591f;#230f3d

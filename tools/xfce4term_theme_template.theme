@@ -1,6 +1,6 @@
 [Scheme]
 Name=ThemeName
-ColorCursor=ForeGround2
-ColorForeground=ForeGround2
+ColorCursor=ForeGround3
+ColorForeground=ForeGround1
 ColorBackground=BackGround1
-ColorPalette=BackGround3;Main1;Main2;Main3;Main4;Main5;Main6;ForeGround2;HighLight3;Sub1;Sub2;Sub3;Sub4;Sub5;Sub6;ForeGround1
+ColorPalette=BackGround3;Syn1;Syn2;Syn3;Syn4;Syn5;Syn6;ForeGround1;BackGround3;Syn1;Syn2;Syn3;Syn4;Syn5;Syn6;ForeGround1

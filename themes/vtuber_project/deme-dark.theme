@@ -1,6 +1,6 @@
 [Scheme]
 Name=deme-dark
-ColorCursor=#e0b385
-ColorForeground=#e0b385
+ColorCursor=#cc9966
+ColorForeground=#f1cca7
 ColorBackground=#1b181b
-ColorPalette=#363036;#6969e2;#f2805a;#e269e2;#f2cc5a;#a669e2;#f3a658;#e0b385;#6b4d2e;#9494eb;#f5a489;#eb94eb;#f5da89;#bf94eb;#f7bf88;#f1cca7
+ColorPalette=#363036;#6969e2;#f2cc5a;#a669e2;#f3a658;#f2805a;#e269e2;#f1cca7;#363036;#6969e2;#f2cc5a;#a669e2;#f3a658;#f2805a;#e269e2;#f1cca7

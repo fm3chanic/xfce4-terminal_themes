@@ -1,6 +1,6 @@
 [Scheme]
 Name=mona-dark
-ColorCursor=#dfc79f
-ColorForeground=#dfc79f
+ColorCursor=#c9af82
+ColorForeground=#f0dec2
 ColorBackground=#311b1d
-ColorPalette=#532d30;#f075f0;#f09475;#f075b3;#f0b375;#f07594;#f0d175;#dfc79f;#745f3e;#f5a3f5;#f5b8a3;#f5a3cc;#f5cca3;#f5a3b8;#f5e0a3;#f0dec2
+ColorPalette=#532d30;#f075f0;#f0b375;#f07594;#f0d175;#f09475;#f075b3;#f0dec2;#532d30;#f075f0;#f0b375;#f07594;#f0d175;#f09475;#f075b3;#f0dec2

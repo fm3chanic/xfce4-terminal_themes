@@ -1,6 +1,6 @@
 [Scheme]
 Name=megalodon-dark
-ColorCursor=#bb9ce2
-ColorForeground=#bb9ce2
+ColorCursor=#a07ece
+ColorForeground=#d6c0f2
 ColorBackground=#241834
-ColorPalette=#3d2857;#d175f0;#75d1f0;#f075d1;#7594f0;#f07594;#9475f0;#bb9ce2;#434370;#e0a3f5;#a3e0f5;#f5a3e0;#a3b8f5;#f5a3b8;#b8a3f5;#d6c0f2
+ColorPalette=#3d2857;#d175f0;#7594f0;#f07594;#9475f0;#75d1f0;#f075d1;#d6c0f2;#3d2857;#d175f0;#7594f0;#f07594;#9475f0;#75d1f0;#f075d1;#d6c0f2

@@ -1,6 +1,6 @@
 [Scheme]
 Name=spite-bubblegum-dark
-ColorCursor=#df9fc5
-ColorForeground=#df9fc5
+ColorCursor=#c982ad
+ColorForeground=#f0c2dd
 ColorBackground=#22222b
-ColorPalette=#383847;#d966ff;#66ccff;#8cb3d9;#71f4f4;#b366ff;#7171f4;#df9fc5;#743e5f;#e699ff;#99ddff;#b3cce6;#a0f8f8;#cc99ff;#a0a0f8;#f0c2dd
+ColorPalette=#383847;#d966ff;#71f4f4;#b366ff;#7171f4;#66ccff;#8cb3d9;#f0c2dd;#383847;#d966ff;#71f4f4;#b366ff;#7171f4;#66ccff;#8cb3d9;#f0c2dd

@@ -1,6 +1,6 @@
 [Scheme]
 Name=everylunaever-dark
-ColorCursor=#df9fd6
-ColorForeground=#df9fd6
+ColorCursor=#c982be
+ColorForeground=#f0c2ea
 ColorBackground=#241933
-ColorPalette=#3c2a55;#b3f075;#e87dcd;#75f075;#cd7de8;#75f0b3;#9475f0;#df9fd6;#743e6b;#ccf5a3;#f0a8de;#a3f5a3;#dea8f0;#a3f5cc;#b8a3f5;#f0c2ea
+ColorPalette=#3c2a55;#b3f075;#cd7de8;#75f0b3;#9475f0;#e87dcd;#75f075;#f0c2ea;#3c2a55;#b3f075;#cd7de8;#75f0b3;#9475f0;#e87dcd;#75f075;#f0c2ea

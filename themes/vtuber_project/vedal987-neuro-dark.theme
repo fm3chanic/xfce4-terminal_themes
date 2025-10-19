@@ -1,6 +1,6 @@
 [Scheme]
 Name=vedal987-neuro-dark
-ColorCursor=#dfc09f
-ColorForeground=#dfc09f
+ColorCursor=#c9a782
+ColorForeground=#f0d9c2
 ColorBackground=#2e1f1f
-ColorPalette=#4c3434;#859ce0;#eccf79;#7dcde8;#f49271;#85e0b3;#f4b571;#dfc09f;#745a3e;#aebdea;#f2dfa6;#a8def0;#f8b6a0;#aeeacc;#f8cda0;#f0d9c2
+ColorPalette=#4c3434;#859ce0;#f49271;#85e0b3;#f4b571;#eccf79;#7dcde8;#f0d9c2;#4c3434;#859ce0;#f49271;#85e0b3;#f4b571;#eccf79;#7dcde8;#f0d9c2

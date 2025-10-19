@@ -1,6 +1,6 @@
 [Scheme]
 Name=shoomimi
-ColorCursor=#df9faf
-ColorForeground=#df9faf
+ColorCursor=#c98294
+ColorForeground=#f0c2cd
 ColorBackground=#1b3132
-ColorPalette=#2d5153;#7db3e8;#e87de8;#7d7de8;#e87db3;#b37de8;#e87d7d;#df9faf;#3e7174;#a8ccf0;#f0a8f0;#a8a8f0;#f0a8cc;#cca8f0;#f0a8a8;#f0c2cd
+ColorPalette=#2d5153;#7db3e8;#e87db3;#b37de8;#e87d7d;#e87de8;#7d7de8;#f0c2cd;#2d5153;#7db3e8;#e87db3;#b37de8;#e87d7d;#e87de8;#7d7de8;#f0c2cd

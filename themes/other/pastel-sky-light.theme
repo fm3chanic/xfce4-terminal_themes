@@ -1,6 +1,6 @@
 [Scheme]
 Name=pastel-sky-light
-ColorCursor=#382956
-ColorForeground=#382956
+ColorCursor=#4f3a78
+ColorForeground=#221934
 ColorBackground=#dedeed
-ColorPalette=#bdbddb;#a32929;#da950b;#339999;#2966a3;#993399;#669933;#382956;#adadd2;#cc3333;#f4af25;#40bfbf;#3380cc;#bf40bf;#80bf40;#221934
+ColorPalette=#bdbddb;#a32929;#2966a3;#993399;#669933;#da950b;#339999;#221934;#bdbddb;#a32929;#2966a3;#993399;#669933;#da950b;#339999;#221934

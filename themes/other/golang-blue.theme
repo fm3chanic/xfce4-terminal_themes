@@ -1,6 +1,6 @@
 [Scheme]
 Name=golang-blue
-ColorCursor=#9fd2df
-ColorForeground=#9fd2df
+ColorCursor=#82bbc9
+ColorForeground=#c2e6f0
 ColorBackground=#262626
-ColorPalette=#404040;#ff9933;#3399ff;#ffcc33;#33ffcc;#ffff33;#33d3ff;#9fd2df;#3e6974;#ffbf80;#80bfff;#ffdf80;#80ffdf;#ffff80;#80e3ff;#c2e6f0
+ColorPalette=#404040;#ff9933;#33ffcc;#ffff33;#33d3ff;#3399ff;#ffcc33;#c2e6f0;#404040;#ff9933;#33ffcc;#ffff33;#33d3ff;#3399ff;#ffcc33;#c2e6f0

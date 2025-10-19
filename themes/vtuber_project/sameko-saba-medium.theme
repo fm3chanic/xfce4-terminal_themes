@@ -1,6 +1,6 @@
 [Scheme]
 Name=sameko-saba-medium
-ColorCursor=#f9eeb8
-ColorForeground=#f9eeb8
+ColorCursor=#f5e38a
+ColorForeground=#fef6cd
 ColorBackground=#3d7d8f
-ColorPalette=#4d9cb3;#eb939e;#f9bf85;#cacbce;#ddcba2;#86e4f9;#adbad2;#f9eeb8;#3a6a78;#f3bec5;#fcd9b6;#e4e5e7;#eae0c7;#b6effc;#ced5e4;#fef6cd
+ColorPalette=#4d9cb3;#eb939e;#ddcba2;#86e4f9;#adbad2;#f9bf85;#cacbce;#fef6cd;#4d9cb3;#eb939e;#ddcba2;#86e4f9;#adbad2;#f9bf85;#cacbce;#fef6cd

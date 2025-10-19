@@ -1,6 +1,6 @@
 [Scheme]
 Name=ironmouse-light
-ColorCursor=#3e3050
-ColorForeground=#3e3050
+ColorCursor=#57476b
+ColorForeground=#241b32
 ColorBackground=#e4cdd2
-ColorPalette=#d2acb4;#48486a;#931f3e;#674c56;#824530;#57367c;#8c2674;#3e3050;#a498b3;#5d5d89;#bd2850;#84626e;#a8583e;#7046a0;#b43196;#241b32
+ColorPalette=#d2acb4;#48486a;#824530;#57367c;#8c2674;#931f3e;#674c56;#241b32;#d2acb4;#48486a;#824530;#57367c;#8c2674;#931f3e;#674c56;#241b32

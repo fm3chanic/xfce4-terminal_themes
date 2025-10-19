@@ -1,6 +1,6 @@
 [Scheme]
 Name=asche-banana-dark
-ColorCursor=#d9c88c
-ColorForeground=#d9c88c
+ColorCursor=#c2b070
+ColorForeground=#e0cd85
 ColorBackground=#211712
-ColorPalette=#422e24;#ecec79;#b89494;#f4d371;#b8af94;#f4b371;#c9a782;#d9c88c;#635936;#f2f2a6;#ccb3b3;#f8e2a0;#ccc6b3;#f8cca0;#d9c0a6;#e0cd85
+ColorPalette=#422e24;#ecec79;#b8af94;#f4b371;#c9a782;#b89494;#f4d371;#e0cd85;#422e24;#ecec79;#b8af94;#f4b371;#c9a782;#b89494;#f4d371;#e0cd85

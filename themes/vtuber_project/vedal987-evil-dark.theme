@@ -1,6 +1,6 @@
 [Scheme]
 Name=vedal987-evil-dark
-ColorCursor=#df9fb4
-ColorForeground=#df9fb4
+ColorCursor=#c98299
+ColorForeground=#f0c2d0
 ColorBackground=#262626
-ColorPalette=#404040;#7d7de8;#e87d7d;#e87de8;#e8987d;#b37de8;#e87db3;#df9fb4;#743e4f;#a8a8f0;#f0a8a8;#f0a8f0;#f0baa8;#cca8f0;#f0a8cc;#f0c2d0
+ColorPalette=#404040;#7d7de8;#e8987d;#b37de8;#e87db3;#e87d7d;#e87de8;#f0c2d0;#404040;#7d7de8;#e8987d;#b37de8;#e87db3;#e87d7d;#e87de8;#f0c2d0

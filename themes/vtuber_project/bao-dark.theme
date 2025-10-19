@@ -1,6 +1,6 @@
 [Scheme]
 Name=bao-dark
-ColorCursor=#9fd0df
-ColorForeground=#9fd0df
+ColorCursor=#82b9c9
+ColorForeground=#c2e5f0
 ColorBackground=#1b2032
-ColorPalette=#2d3553;#6eb3f7;#f7d56e;#6ef7f7;#f7906e;#6ef7b3;#f76e90;#9fd0df;#3e6774;#9eccfa;#fae39e;#9efafa;#fab59e;#9efacc;#fa9eb5;#c2e5f0
+ColorPalette=#2d3553;#6eb3f7;#f7906e;#6ef7b3;#f76e90;#f7d56e;#6ef7f7;#c2e5f0;#2d3553;#6eb3f7;#f7906e;#6ef7b3;#f76e90;#f7d56e;#6ef7f7;#c2e5f0

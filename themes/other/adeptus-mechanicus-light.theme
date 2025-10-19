@@ -1,6 +1,6 @@
 [Scheme]
 Name=adeptus-mechanicus-light
-ColorCursor=#602920
-ColorForeground=#602920
+ColorCursor=#7d4136
+ColorForeground=#3d150f
 ColorBackground=#d7d9db
-ColorPalette=#bcbfc2;#2d2d86;#8f5924;#2d5986;#93761f;#248f8f;#862d2d;#602920;#c1928b;#3939ac;#b8732e;#3973ac;#bd9828;#2eb8b8;#ac3939;#3d150f
+ColorPalette=#bcbfc2;#2d2d86;#93761f;#248f8f;#862d2d;#8f5924;#2d5986;#3d150f;#bcbfc2;#2d2d86;#93761f;#248f8f;#862d2d;#8f5924;#2d5986;#3d150f

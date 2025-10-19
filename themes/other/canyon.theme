@@ -1,6 +1,6 @@
 [Scheme]
 Name=canyon
-ColorCursor=#373224
-ColorForeground=#373224
+ColorCursor=#484335
+ColorForeground=#211d12
 ColorBackground=#a98b70
-ColorPalette=#bca28f;#ad1f1f;#ad1f42;#8f3d52;#993333;#864a2d;#98591b;#373224;#cfbfaf;#821717;#821732;#6b2e3d;#732626;#603520;#6c4013;#211d12
+ColorPalette=#bca28f;#ad1f1f;#993333;#864a2d;#98591b;#ad1f42;#8f3d52;#211d12;#bca28f;#ad1f1f;#993333;#864a2d;#98591b;#ad1f42;#8f3d52;#211d12

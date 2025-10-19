@@ -1,6 +1,6 @@
 [Scheme]
 Name=camila-dark
-ColorCursor=#dba4c2
-ColorForeground=#dba4c2
+ColorCursor=#cc7faa
+ColorForeground=#e9c8da
 ColorBackground=#201d30
-ColorPalette=#353050;#f075d1;#f075b3;#7594f0;#d175f0;#9475f0;#b375f0;#dba4c2;#743e5c;#f5a3e0;#f5a3cc;#a3b8f5;#e0a3f5;#b8a3f5;#cca3f5;#e9c8da
+ColorPalette=#353050;#f075d1;#d175f0;#9475f0;#b375f0;#f075b3;#7594f0;#e9c8da;#353050;#f075d1;#d175f0;#9475f0;#b375f0;#f075b3;#7594f0;#e9c8da

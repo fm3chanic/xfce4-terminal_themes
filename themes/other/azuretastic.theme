@@ -1,6 +1,6 @@
 [Scheme]
 Name=azuretastic
-ColorCursor=#b3d9e6
-ColorForeground=#b3d9e6
+ColorCursor=#94c2d1
+ColorForeground=#d6eef5
 ColorBackground=#002633
-ColorPalette=#176782;#33ff99;#33ccff;#33ffcc;#3399ff;#33ffff;#3366ff;#b3d9e6;#477585;#80ffbf;#80dfff;#80ffdf;#80bfff;#80ffff;#809fff;#d6eef5
+ColorPalette=#176782;#33ff99;#3399ff;#33ffff;#3366ff;#33ccff;#33ffcc;#d6eef5;#176782;#33ff99;#3399ff;#33ffff;#3366ff;#33ccff;#33ffcc;#d6eef5

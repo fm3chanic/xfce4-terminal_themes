@@ -1,6 +1,6 @@
 [Scheme]
 Name=everylunaever-light
-ColorCursor=#3c2060
-ColorForeground=#3c2060
+ColorCursor=#54367d
+ColorForeground=#240f3d
 ColorBackground=#decde4
-ColorPalette=#c8acd2;#40730d;#6c1356;#0d730d;#56136c;#0d7340;#260d73;#3c2060;#a187c4;#59a112;#981b78;#12a112;#781b98;#12a159;#3612a1;#240f3d
+ColorPalette=#c8acd2;#40730d;#56136c;#0d7340;#260d73;#6c1356;#0d730d;#240f3d;#c8acd2;#40730d;#56136c;#0d7340;#260d73;#6c1356;#0d730d;#240f3d

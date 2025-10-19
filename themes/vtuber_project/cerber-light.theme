@@ -1,6 +1,6 @@
 [Scheme]
 Name=cerber-light
-ColorCursor=#2d2060
-ColorForeground=#2d2060
+ColorCursor=#44367d
+ColorForeground=#190f3d
 ColorBackground=#f0ddc2
-ColorPalette=#e6c698;#8a780f;#83167f;#823217;#5b1782;#835916;#2c1782;#2d2060;#988fbd;#b89f14;#ae1eaa;#ad421f;#791fad;#ae771e;#3b1fad;#190f3d
+ColorPalette=#e6c698;#8a780f;#5b1782;#835916;#2c1782;#83167f;#823217;#190f3d;#e6c698;#8a780f;#5b1782;#835916;#2c1782;#83167f;#823217;#190f3d

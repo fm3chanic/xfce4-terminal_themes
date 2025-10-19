@@ -1,6 +1,6 @@
 [Scheme]
 Name=spite-dark
-ColorCursor=#9fdadf
-ColorForeground=#9fdadf
+ColorCursor=#82c3c9
+ColorForeground=#c2ecf0
 ColorBackground=#22222b
-ColorPalette=#383847;#d966ff;#66ccff;#8cb3d9;#71f4f4;#b366ff;#7171f4;#9fdadf;#3e7074;#e699ff;#99ddff;#b3cce6;#a0f8f8;#cc99ff;#a0a0f8;#c2ecf0
+ColorPalette=#383847;#d966ff;#71f4f4;#b366ff;#7171f4;#66ccff;#8cb3d9;#c2ecf0;#383847;#d966ff;#71f4f4;#b366ff;#7171f4;#66ccff;#8cb3d9;#c2ecf0

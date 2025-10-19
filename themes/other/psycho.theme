@@ -1,6 +1,6 @@
 [Scheme]
 Name=psycho
-ColorCursor=#d9a6d9
-ColorForeground=#d9a6d9
+ColorCursor=#c982c9
+ColorForeground=#e8c9e8
 ColorBackground=#29212c
-ColorPalette=#5f4d66;#ec79b3;#b371f4;#8c66ff;#f471f4;#7979ec;#b366ff;#d9a6d9;#743e74;#f2a6cc;#cca0f8;#b399ff;#f8a0f8;#a6a6f2;#cc99ff;#e8c9e8
+ColorPalette=#5f4d66;#ec79b3;#f471f4;#7979ec;#b366ff;#b371f4;#8c66ff;#e8c9e8;#5f4d66;#ec79b3;#f471f4;#7979ec;#b366ff;#b371f4;#8c66ff;#e8c9e8

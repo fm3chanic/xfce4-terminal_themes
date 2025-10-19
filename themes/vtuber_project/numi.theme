@@ -1,6 +1,6 @@
 [Scheme]
 Name=numi
-ColorCursor=#df9f9f
-ColorForeground=#df9f9f
+ColorCursor=#c98282
+ColorForeground=#f0c2c2
 ColorBackground=#251a33
-ColorPalette=#3d2b54;#7594f0;#f075d1;#f09475;#d175f0;#f07594;#9475f0;#df9f9f;#763d4b;#a3b8f5;#f5a3e0;#f5b8a3;#e0a3f5;#f5a3b8;#b8a3f5;#f0c2c2
+ColorPalette=#3d2b54;#7594f0;#d175f0;#f07594;#9475f0;#f075d1;#f09475;#f0c2c2;#3d2b54;#7594f0;#d175f0;#f07594;#9475f0;#f075d1;#f09475;#f0c2c2

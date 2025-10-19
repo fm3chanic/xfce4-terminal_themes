@@ -1,6 +1,6 @@
 [Scheme]
 Name=bao-light
-ColorCursor=#205160
-ColorForeground=#205160
+ColorCursor=#366d7d
+ColorForeground=#0f323d
 ColorBackground=#cdd2e4
-ColorPalette=#acb4d2;#084d91;#916f08;#089191;#912a08;#08914d;#91082a;#205160;#8bb4c1;#0a66c2;#c2940a;#0ac2c2;#c2380a;#0ac266;#c20a38;#0f323d
+ColorPalette=#acb4d2;#084d91;#912a08;#08914d;#91082a;#916f08;#089191;#0f323d;#acb4d2;#084d91;#912a08;#08914d;#91082a;#916f08;#089191;#0f323d

@@ -1,6 +1,6 @@
 [Scheme]
 Name=forest-spruce
-ColorCursor=#afcfbe
-ColorForeground=#afcfbe
+ColorCursor=#8fbca4
+ColorForeground=#cfe2d8
 ColorBackground=#1d3026
-ColorPalette=#30503f;#75f09e;#c4e87d;#cccc99;#8cd9b3;#8cd98c;#95d0d0;#afcfbe;#437058;#a3f5be;#d8f0a8;#ddddbb;#b3e6cc;#b3e6b3;#b8e0e0;#cfe2d8
+ColorPalette=#30503f;#75f09e;#8cd9b3;#8cd98c;#95d0d0;#c4e87d;#cccc99;#cfe2d8;#30503f;#75f09e;#8cd9b3;#8cd98c;#95d0d0;#c4e87d;#cccc99;#cfe2d8

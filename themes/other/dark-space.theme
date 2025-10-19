@@ -1,6 +1,6 @@
 [Scheme]
 Name=dark-space
-ColorCursor=#c0a5c0
-ColorForeground=#c0a5c0
+ColorCursor=#ab87ab
+ColorForeground=#d5c3d5
 ColorBackground=#1e151e
-ColorPalette=#3c2a3c;#f471b3;#f4d371;#f471f4;#f4b371;#b371f4;#f49271;#c0a5c0;#5a3f5a;#f8a0cc;#f8e2a0;#f8a0f8;#f8cca0;#cca0f8;#f8b6a0;#d5c3d5
+ColorPalette=#3c2a3c;#f471b3;#f4b371;#b371f4;#f49271;#f4d371;#f471f4;#d5c3d5;#3c2a3c;#f471b3;#f4b371;#b371f4;#f49271;#f4d371;#f471f4;#d5c3d5

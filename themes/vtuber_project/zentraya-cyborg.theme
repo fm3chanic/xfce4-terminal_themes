@@ -1,6 +1,6 @@
 [Scheme]
 Name=zentraya-cyborg
-ColorCursor=#bea7be
-ColorForeground=#bea7be
+ColorCursor=#a88aa8
+ColorForeground=#d4c4d4
 ColorBackground=#121921
-ColorPalette=#243242;#6c9ae0;#a667e4;#67e4a6;#e467e4;#67e4e4;#e467a6;#bea7be;#534554;#96b7e9;#bf93ec;#93ecbf;#ec93ec;#93ecec;#ec93bf;#d4c4d4
+ColorPalette=#243242;#6c9ae0;#e467e4;#67e4e4;#e467a6;#a667e4;#67e4a6;#d4c4d4;#243242;#6c9ae0;#e467e4;#67e4e4;#e467a6;#a667e4;#67e4a6;#d4c4d4

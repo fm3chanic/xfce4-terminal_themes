@@ -1,6 +1,6 @@
 [Scheme]
 Name=nayami-light
-ColorCursor=#60394e
-ColorForeground=#60394e
+ColorCursor=#804d68
+ColorForeground=#402634
 ColorBackground=#facfb7
-ColorPalette=#f7af88;#871252;#997300;#123987;#990099;#95043c;#921907;#60394e;#c69fb4;#b4186e;#cc9900;#184cb4;#cc00cc;#c7054f;#c32209;#402634
+ColorPalette=#f7af88;#871252;#990099;#95043c;#921907;#997300;#123987;#402634;#f7af88;#871252;#990099;#95043c;#921907;#997300;#123987;#402634

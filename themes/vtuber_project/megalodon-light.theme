@@ -1,6 +1,6 @@
 [Scheme]
 Name=megalodon-light
-ColorCursor=#3b1d63
-ColorForeground=#3b1d63
+ColorCursor=#543181
+ColorForeground=#230d3f
 ColorBackground=#d7cbe7
-ColorPalette=#bca8d7;#6b0f8a;#0f6b8a;#8a0f6b;#0f2e8a;#8a0f2e;#2e0f8a;#3b1d63;#8f8fbc;#8f14b8;#148fb8;#b8148f;#143db8;#b8143d;#3d14b8;#230d3f
+ColorPalette=#bca8d7;#6b0f8a;#0f2e8a;#8a0f2e;#2e0f8a;#0f6b8a;#8a0f6b;#230d3f;#bca8d7;#6b0f8a;#0f2e8a;#8a0f2e;#2e0f8a;#0f6b8a;#8a0f6b;#230d3f

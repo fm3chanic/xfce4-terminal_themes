@@ -1,6 +1,6 @@
 [Scheme]
 Name=ellie-minibot-codebug
-ColorCursor=#604120
-ColorForeground=#604120
+ColorCursor=#865b2d
+ColorForeground=#392713
 ColorBackground=#f5e6bd
-ColorPalette=#eed590;#542673;#2d4386;#4a446f;#178282;#26734d;#1b647e;#604120;#d2a779;#703399;#3956ac;#5f578e;#1fadad;#339966;#2485a8;#392713
+ColorPalette=#eed590;#542673;#178282;#26734d;#1b647e;#2d4386;#4a446f;#392713;#eed590;#542673;#178282;#26734d;#1b647e;#2d4386;#4a446f;#392713

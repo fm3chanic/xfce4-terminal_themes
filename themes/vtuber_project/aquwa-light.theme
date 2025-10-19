@@ -1,6 +1,6 @@
 [Scheme]
 Name=aquwa-light
-ColorCursor=#292060
-ColorForeground=#292060
+ColorCursor=#41367d
+ColorForeground=#150f3d
 ColorBackground=#c8eaea
-ColorPalette=#a3dcdc;#24248f;#8f2459;#8f248f;#24598f;#59248f;#248f8f;#292060;#948bc1;#2e2eb8;#b82e73;#b82eb8;#2e73b8;#732eb8;#2eb8b8;#150f3d
+ColorPalette=#a3dcdc;#24248f;#24598f;#59248f;#248f8f;#8f2459;#8f248f;#150f3d;#a3dcdc;#24248f;#24598f;#59248f;#248f8f;#8f2459;#8f248f;#150f3d

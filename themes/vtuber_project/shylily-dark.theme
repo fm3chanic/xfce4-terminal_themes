@@ -1,6 +1,6 @@
 [Scheme]
 Name=shylily-dark
-ColorCursor=#9fafdf
-ColorForeground=#9fafdf
+ColorCursor=#8295c9
+ColorForeground=#c2cdf0
 ColorBackground=#1b1b32
-ColorPalette=#2d2d53;#e87de8;#987de8;#e085b3;#7dcde8;#e08585;#7d98e8;#9fafdf;#3e4c74;#f0a8f0;#baa8f0;#eaaecc;#a8def0;#eaaeae;#a8baf0;#c2cdf0
+ColorPalette=#2d2d53;#e87de8;#7dcde8;#e08585;#7d98e8;#987de8;#e085b3;#c2cdf0;#2d2d53;#e87de8;#7dcde8;#e08585;#7d98e8;#987de8;#e085b3;#c2cdf0
