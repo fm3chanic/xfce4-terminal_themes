@@ -1,6 +1,6 @@
 [Scheme]
 Name=pastel-sky-dark
-ColorCursor=#9999cc
-ColorForeground=#ddddee
-ColorBackground=#221934
-ColorPalette=#382956;#f28c8c;#80bfff;#f28cf2;#bff28c;#f0c775;#8cf2f2;#ddddee;#382956;#f28c8c;#80bfff;#f28cf2;#bff28c;#f0c775;#8cf2f2;#ddddee
+ColorCursor=#8282c9
+ColorForeground=#c2c2f0
+ColorBackground=#24212c
+ColorPalette=#3c3749;#f28c8c;#80bfff;#f28cf2;#bff28c;#f0c775;#8cf2f2;#c2c2f0;#3c3749;#f28c8c;#80bfff;#f28cf2;#bff28c;#f0c775;#8cf2f2;#c2c2f0
