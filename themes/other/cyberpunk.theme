@@ -1,6 +1,6 @@
 [Scheme]
 Name=cyberpunk
-ColorCursor=#c270c2
-ColorForeground=#ebadeb
+ColorCursor=#b87ab8
+ColorForeground=#dbbddb
 ColorBackground=#121721
-ColorPalette=#242e42;#b37de8;#7dcde8;#e87db3;#7de8cd;#e87de8;#7d7de8;#ebadeb;#242e42;#b37de8;#7dcde8;#e87db3;#7de8cd;#e87de8;#7d7de8;#ebadeb
+ColorPalette=#242e42;#e87d98;#cde87d;#7de8cd;#7de898;#8cc6d9;#d98cd9;#dbbddb;#242e42;#e87d98;#cde87d;#7de8cd;#7de898;#8cc6d9;#d98cd9;#dbbddb
