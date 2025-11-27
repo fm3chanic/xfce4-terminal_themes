@@ -1,6 +1,6 @@
 [Scheme]
 Name=metropolis
-ColorCursor=#8f9aa3
-ColorForeground=#c7ccd1
-ColorBackground=#171c1c
-ColorPalette=#2e3838;#e6ac98;#e6d398;#98e6d3;#98e6ac;#98d3e6;#e698bf;#c7ccd1;#2e3838;#e6ac98;#e6d398;#98e6d3;#98e6ac;#98d3e6;#e698bf;#c7ccd1
+ColorCursor=#92a9b9
+ColorForeground=#d0dae1
+ColorBackground=#1f2a2e
+ColorPalette=#34454c;#d27979;#f2da8c;#8cd9c6;#9fd98c;#80a6cb;#d194b3;#d0dae1;#34454c;#d27979;#f2da8c;#8cd9c6;#9fd98c;#80a6cb;#d194b3;#d0dae1
