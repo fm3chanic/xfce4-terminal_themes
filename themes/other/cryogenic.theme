@@ -1,6 +1,6 @@
 [Scheme]
 Name=cryogenic
-ColorCursor=#94b0b8
-ColorForeground=#d1dde0
-ColorBackground=#282a22
-ColorPalette=#434739;#d98c9f;#d9d98c;#8cd9c6;#b3d98c;#8cc6d9;#bfa6d9;#d1dde0;#434739;#d98c9f;#d9d98c;#8cd9c6;#b3d98c;#8cc6d9;#bfa6d9;#d1dde0
+ColorCursor=#abbfc4
+ColorForeground=#b4e2ee
+ColorBackground=#3a3d34
+ColorPalette=#55584b;#dd889d;#dddd88;#88ddc8;#9ddd88;#88b3dd;#d98cc6;#b4e2ee;#55584b;#dd889d;#dddd88;#88ddc8;#9ddd88;#88b3dd;#d98cc6;#b4e2ee

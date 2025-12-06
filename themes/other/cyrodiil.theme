@@ -1,6 +1,6 @@
 [Scheme]
 Name=cyrodiil
-ColorCursor=#7c5236
-ColorForeground=#352317
+ColorCursor=#3b312b
+ColorForeground=#000000
 ColorBackground=#b7997b
-ColorPalette=#c9b39c;#602020;#404040;#2d2d53;#2d532d;#532d53;#2d5353;#352317;#c9b39c;#602020;#404040;#2d2d53;#2d532d;#532d53;#2d5353;#352317
+ColorPalette=#c9b39c;#602020;#404040;#2d5353;#2d532d;#2d2d53;#532d53;#000000;#c9b39c;#602020;#404040;#2d5353;#2d532d;#2d2d53;#532d53;#000000

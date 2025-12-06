@@ -1,6 +1,6 @@
 [Scheme]
 Name=aurora-borealis
-ColorCursor=#6bc7b5
-ColorForeground=#b5e3da
-ColorBackground=#132020
-ColorPalette=#264040;#5a8cf2;#5af2f2;#5eed5e;#5af2bf;#bff25a;#4dd2ff;#b5e3da;#264040;#5a8cf2;#5af2f2;#5eed5e;#5af2bf;#bff25a;#4dd2ff;#b5e3da
+ColorCursor=#b4c5cb
+ColorForeground=#cbe0e7
+ColorBackground=#2e4242
+ColorPalette=#496969;#f0a8ba;#def0a8;#a8f0cc;#a8f0a8;#a8f0f0;#baa8f0;#cbe0e7;#496969;#f0a8ba;#def0a8;#a8f0cc;#a8f0a8;#a8f0f0;#baa8f0;#cbe0e7

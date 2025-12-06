@@ -1,6 +1,6 @@
 [Scheme]
 Name=steampunk
-ColorCursor=#c69f53
-ColorForeground=#edce92
-ColorBackground=#1f1414
-ColorPalette=#3d2929;#ba5e5e;#b3b3b3;#cb774d;#75a3a3;#dda73c;#7575a3;#edce92;#3d2929;#ba5e5e;#b3b3b3;#cb774d;#75a3a3;#dda73c;#7575a3;#edce92
+ColorCursor=#dac395
+ColorForeground=#eedbb4
+ColorBackground=#422e2e
+ColorPalette=#604343;#ba5e5e;#e0c36c;#75a3a3;#75ba5e;#7575a3;#ba5e8c;#eedbb4;#604343;#ba5e5e;#e0c36c;#75a3a3;#75ba5e;#7575a3;#ba5e8c;#eedbb4

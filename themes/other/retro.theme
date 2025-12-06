@@ -1,6 +1,6 @@
 [Scheme]
 Name=retro
-ColorCursor=#999999
-ColorForeground=#cccccc
-ColorBackground=#1a1a1a
-ColorPalette=#333333;#ff4d4d;#4dffff;#ffff4d;#4dff4d;#ff4dff;#4d94ff;#cccccc;#333333;#ff4d4d;#4dffff;#ffff4d;#4dff4d;#ff4dff;#4d94ff;#cccccc
+ColorCursor=#b3b3b3
+ColorForeground=#e6e6e6
+ColorBackground=#333333
+ColorPalette=#4d4d4d;#e05252;#f0f075;#52e0e0;#52e052;#5299e0;#d161b5;#e6e6e6;#4d4d4d;#e05252;#f0f075;#52e0e0;#52e052;#5299e0;#d161b5;#e6e6e6

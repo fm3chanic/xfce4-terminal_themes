@@ -1,6 +1,6 @@
 [Scheme]
 Name=dieselpunk
-ColorCursor=#ad9a85
-ColorForeground=#d6ccc2
-ColorBackground=#262626
-ColorPalette=#404040;#c27070;#a88aa1;#d1b561;#adad85;#cc9966;#ad8585;#d6ccc2;#404040;#c27070;#a88aa1;#d1b561;#adad85;#cc9966;#ad8585;#d6ccc2
+ColorCursor=#c4b8ab
+ColorForeground=#e2d2c1
+ColorBackground=#383838
+ColorPalette=#525252;#c27070;#d1b561;#70c299;#99c270;#ad70c2;#c27099;#e2d2c1;#525252;#c27070;#d1b561;#70c299;#99c270;#ad70c2;#c27099;#e2d2c1

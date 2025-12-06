@@ -1,6 +1,6 @@
 [Scheme]
 Name=solarpunk
-ColorCursor=#adb398
-ColorForeground=#dcded3
-ColorBackground=#1b2b31
-ColorPalette=#2d4852;#f94144;#F9C74F;#85C1B0;#B5E48C;#71a2c1;#F0F3BD;#dcded3;#2d4852;#f94144;#F9C74F;#85C1B0;#B5E48C;#71a2c1;#F0F3BD;#dcded3
+ColorCursor=#bec2ad
+ColorForeground=#eceee8
+ColorBackground=#283f48
+ColorPalette=#3b5c68;#eb474a;#ebba47;#61d1b1;#afe085;#61a6d1;#F0F3BD;#eceee8;#3b5c68;#eb474a;#ebba47;#61d1b1;#afe085;#61a6d1;#F0F3BD;#eceee8

@@ -1,6 +1,6 @@
 [Scheme]
 Name=joker
-ColorCursor=#7ab88a
-ColorForeground=#bddbc5
-ColorBackground=#191221
-ColorPalette=#322442;#e15151;#c9ed5e;#5eeda6;#67e467;#5eeded;#e963a6;#bddbc5;#322442;#e15151;#c9ed5e;#5eeda6;#67e467;#5eeded;#e963a6;#bddbc5
+ColorCursor=#a6c9ab
+ColorForeground=#bfe3c4
+ColorBackground=#372848
+ColorPalette=#503b68;#e96363;#e9e963;#63e984;#84e963;#63e9c7;#d775a6;#bfe3c4;#503b68;#e96363;#e9e963;#63e984;#84e963;#63e9c7;#d775a6;#bfe3c4

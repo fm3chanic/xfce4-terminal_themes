@@ -1,6 +1,6 @@
 [Scheme]
 Name=mother-nature-dark
-ColorCursor=#8f8fa3
-ColorForeground=#c7c7d1
-ColorBackground=#19191a
-ColorPalette=#323234;#c65355;#e0a352;#53ac96;#648267;#5396ac;#8c78ba;#c7c7d1;#323234;#c65355;#e0a352;#53ac96;#648267;#5396ac;#8c78ba;#c7c7d1
+ColorCursor=#b3b3bc
+ColorForeground=#e9e9ec
+ColorBackground=#35353b
+ColorPalette=#4d4d56;#c65355;#e0a352;#53ac96;#648267;#5396ac;#8c78ba;#e9e9ec;#4d4d56;#c65355;#e0a352;#53ac96;#648267;#5396ac;#8c78ba;#e9e9ec

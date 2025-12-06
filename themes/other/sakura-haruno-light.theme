@@ -1,6 +1,6 @@
 [Scheme]
 Name=sakura-haruno-light
-ColorCursor=#6a2f35
-ColorForeground=#35171a
-ColorBackground=#f4d7d9
-ColorPalette=#eaaeb2;#bf4040;#28383e;#3492b2;#687d73;#6b6b94;#09416F;#35171a;#eaaeb2;#bf4040;#28383e;#3492b2;#687d73;#6b6b94;#09416F;#35171a
+ColorCursor=#6a393c
+ColorForeground=#281517
+ColorBackground=#e3bfc1
+ColorPalette=#d49b9f;#c65353;#28383e;#3492b2;#687d73;#1f5993;#6b6b94;#281517;#d49b9f;#c65353;#28383e;#3492b2;#687d73;#1f5993;#6b6b94;#281517

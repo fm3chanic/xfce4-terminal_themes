@@ -1,6 +1,6 @@
 [Scheme]
 Name=nautical
-ColorCursor=#dab772
-ColorForeground=#efe0c2
-ColorBackground=#1f1f2e
-ColorPalette=#34344c;#f09e75;#6666ff;#66b3ff;#93ecec;#f0c775;#f0f075;#efe0c2;#34344c;#f09e75;#6666ff;#66b3ff;#93ecec;#f0c775;#f0f075;#efe0c2
+ColorCursor=#c9b58d
+ColorForeground=#e9d9ba
+ColorBackground=#2e2e42
+ColorPalette=#434360;#db8b70;#dbc170;#70dbc1;#70db8b;#70c1db;#8f79d2;#e9d9ba;#434360;#db8b70;#dbc170;#70dbc1;#70db8b;#70c1db;#8f79d2;#e9d9ba

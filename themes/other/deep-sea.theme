@@ -1,6 +1,6 @@
 [Scheme]
 Name=deep-sea
-ColorCursor=#8cb4d9
-ColorForeground=#d9e6f2
-ColorBackground=#001a33
-ColorPalette=#003566;#6666ff;#66ffb3;#66ff66;#b3ff66;#66b3ff;#66ffff;#d9e6f2;#003566;#6666ff;#66ffb3;#66ff66;#b3ff66;#66b3ff;#66ffff;#d9e6f2
+ColorCursor=#859aad
+ColorForeground=#b8cce0
+ColorBackground=#0f1a24
+ColorPalette=#1f3347;#e963a6;#e9e963;#63e9a6;#a6e963;#63c7e9;#7979d2;#b8cce0;#1f3347;#e963a6;#e9e963;#63e9a6;#a6e963;#63c7e9;#7979d2;#b8cce0

@@ -1,6 +1,6 @@
 [Scheme]
 Name=mother-nature-light
-ColorCursor=#4a4a4f
-ColorForeground=#19191a
-ColorBackground=#e5e5e6
-ColorPalette=#bebec1;#ac393b;#6b4db3;#d98b26;#476b4b;#d95326;#388694;#19191a;#bebec1;#ac393b;#6b4db3;#d98b26;#476b4b;#d95326;#388694;#19191a
+ColorCursor=#4d4d56
+ColorForeground=#1d1d20
+ColorBackground=#ceced4
+ColorPalette=#b3b3bc;#ac393b;#c37d22;#4b9b87;#648267;#4b879b;#644e97;#1d1d20;#b3b3bc;#ac393b;#c37d22;#4b9b87;#648267;#4b879b;#644e97;#1d1d20
