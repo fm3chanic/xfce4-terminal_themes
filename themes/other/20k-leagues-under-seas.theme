@@ -1,6 +1,6 @@
 [Scheme]
 Name=20k-leagues-under-seas
-ColorCursor=#dbc170
-ColorForeground=#fbeab6
+ColorCursor=#c9b58d
+ColorForeground=#e9d9ba
 ColorBackground=#141f1f
-ColorPalette=#283e3e;#eb9393;#92b9b9;#51bde1;#66e591;#9393eb;#eb93eb;#fbeab6;#283e3e;#eb9393;#92b9b9;#51bde1;#66e591;#9393eb;#eb93eb;#fbeab6
+ColorPalette=#283e3e;#eb9393;#92b9b9;#51bde1;#66e591;#9393eb;#eb93eb;#e9d9ba;#283e3e;#eb9393;#92b9b9;#51bde1;#66e591;#9393eb;#eb93eb;#e9d9ba
