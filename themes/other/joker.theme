@@ -1,6 +1,10 @@
 [Scheme]
 Name=joker
-ColorCursor=#a6c9ab
-ColorForeground=#bfe3c4
-ColorBackground=#372848
-ColorPalette=#503b68;#e06c6c;#e0e06c;#75d78d;#8dd775;#75d7be;#d775a6;#bfe3c4;#503b68;#e06c6c;#e0e06c;#75d78d;#8dd775;#75d7be;#d775a6;#bfe3c4
+ColorCursor=#AAC4AE
+ColorForeground=#B3EEBB
+ColorBackground=#372F41
+ColorSelectionBackground=#577E60
+ColorSelection=#AAC4AE
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D8D88C
+ColorPalette=#50445E;#D88C8C;#9ED88C;#D8D88C;#8CD8C5;#D88CB2;#8CD89E;#B3EEBB;#50445E;#D88C8C;#9ED88C;#D8D88C;#8CD8C5;#D88CB2;#8CD89E;#B3EEBB

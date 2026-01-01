@@ -1,6 +1,10 @@
 [Scheme]
 Name=maakurika
-ColorCursor=#db7070
-ColorForeground=#f0c2c2
-ColorBackground=#1b2c32
-ColorPalette=#2d4953;#f76eb3;#6ef790;#f7b56e;#90f76e;#d5f76e;#f76e6e;#f0c2c2;#2d4953;#f76eb3;#6ef790;#f7b56e;#90f76e;#d5f76e;#f76e6e;#f0c2c2
+ColorCursor=#C4AAAA
+ColorForeground=#EEB3B3
+ColorBackground=#2F3C41
+ColorSelectionBackground=#747E57
+ColorSelection=#C4AAAA
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#8CD89F
+ColorPalette=#44575E;#D88CB2;#9FD88C;#8CD89F;#C5D88C;#D88C8C;#D8B38C;#EEB3B3;#44575E;#D88CB2;#9FD88C;#8CD89F;#C5D88C;#D88C8C;#D8B38C;#EEB3B3

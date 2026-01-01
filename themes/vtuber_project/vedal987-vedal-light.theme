@@ -1,6 +1,10 @@
 [Scheme]
 Name=vedal987-vedal-light
-ColorCursor=#367d59
-ColorForeground=#0f3d28
-ColorBackground=#cfe4cd
-ColorPalette=#afd2ac;#862d43;#2d8670;#702d86;#2d862d;#70862d;#862d70;#0f3d28;#afd2ac;#862d43;#2d8670;#702d86;#2d862d;#70862d;#862d70;#0f3d28
+ColorCursor=#4B6659
+ColorForeground=#202B26
+ColorBackground=#CFE4CD
+ColorSelectionBackground=#618372
+ColorSelection=#4B6659
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#2C856F
+ColorPalette=#AFD2AC;#852C42;#2C852C;#2C856F;#6F852C;#852C6F;#6F2C85;#202B26;#AFD2AC;#852C42;#2C852C;#2C856F;#6F852C;#852C6F;#6F2C85;#202B26

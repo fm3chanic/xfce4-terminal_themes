@@ -1,6 +1,10 @@
 [Scheme]
 Name=squchan
-ColorCursor=#dbbf70
-ColorForeground=#f7e6ba
-ColorBackground=#2c2121
-ColorPalette=#493737;#7594f0;#f07594;#d175f0;#f09475;#f075d1;#9475f0;#f7e6ba;#493737;#7594f0;#f07594;#d175f0;#f09475;#f075d1;#9475f0;#f7e6ba
+ColorCursor=#C4BDAA
+ColorForeground=#EEDEB3
+ColorBackground=#412F2F
+ColorSelectionBackground=#7E576B
+ColorSelection=#C4BDAA
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D88C9F
+ColorPalette=#5E4444;#8C9FD8;#D89F8C;#D88C9F;#D88CC5;#9F8CD8;#C58CD8;#EEDEB3;#5E4444;#8C9FD8;#D89F8C;#D88C9F;#D88CC5;#9F8CD8;#C58CD8;#EEDEB3

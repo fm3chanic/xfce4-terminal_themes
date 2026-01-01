@@ -1,6 +1,10 @@
 [Scheme]
 Name=bao-dark
-ColorCursor=#82b9c9
-ColorForeground=#c2e5f0
-ColorBackground=#1b2032
-ColorPalette=#2d3553;#6eb3f7;#f7906e;#6ef7b3;#f76e90;#f7d56e;#6ef7f7;#c2e5f0;#2d3553;#6eb3f7;#f7906e;#6ef7b3;#f76e90;#f7d56e;#6ef7f7;#c2e5f0
+ColorCursor=#AABEC4
+ColorForeground=#B3E0EE
+ColorBackground=#2F3341
+ColorSelectionBackground=#57757E
+ColorSelection=#AABEC4
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D89F8C
+ColorPalette=#444A5E;#8CB2D8;#D88C9F;#D89F8C;#D8C58C;#8CD8D8;#8CD8B2;#B3E0EE;#444A5E;#8CB2D8;#D88C9F;#D89F8C;#D8C58C;#8CD8D8;#8CD8B2;#B3E0EE

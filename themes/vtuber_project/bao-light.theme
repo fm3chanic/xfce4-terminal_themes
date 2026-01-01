@@ -1,6 +1,10 @@
 [Scheme]
 Name=bao-light
-ColorCursor=#366d7d
-ColorForeground=#0f323d
-ColorBackground=#cdd2e4
-ColorPalette=#acb4d2;#084d91;#912a08;#08914d;#91082a;#916f08;#089191;#0f323d;#acb4d2;#084d91;#912a08;#08914d;#91082a;#916f08;#089191;#0f323d
+ColorCursor=#4B6066
+ColorForeground=#20292B
+ColorBackground=#CDD2E4
+ColorSelectionBackground=#617B83
+ColorSelection=#4B6066
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#85422C
+ColorPalette=#ACB4D2;#2C5985;#852C42;#85422C;#856F2C;#2C8585;#2C8559;#20292B;#ACB4D2;#2C5985;#852C42;#85422C;#856F2C;#2C8585;#2C8559;#20292B

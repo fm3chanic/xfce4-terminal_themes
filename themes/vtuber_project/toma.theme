@@ -1,6 +1,10 @@
 [Scheme]
 Name=toma
-ColorCursor=#437043
-ColorForeground=#153715
-ColorBackground=#f0c2c2
-ColorPalette=#e69898;#8a0f6b;#2e8a0f;#8a2e0f;#637a1f;#0f8a2e;#8a0f2e;#153715;#e69898;#8a0f6b;#2e8a0f;#8a2e0f;#637a1f;#0f8a2e;#8a0f2e;#153715
+ColorCursor=#4B664B
+ColorForeground=#202B20
+ColorBackground=#E4CDCD
+ColorSelectionBackground=#7B8361
+ColorSelection=#4B664B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#43852C
+ColorPalette=#D2ACAC;#852C6F;#6F852C;#43852C;#2C8543;#852C43;#85432C;#202B20;#D2ACAC;#852C6F;#6F852C;#43852C;#2C8543;#852C43;#85432C;#202B20
