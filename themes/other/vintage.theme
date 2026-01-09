@@ -1,0 +1,10 @@
+[Scheme]
+Name=vintage
+ColorCursor=#a79b8b
+ColorForeground=#d3cdc5
+ColorBackground=#1d1a16
+ColorSelectionBackground=#574e42
+ColorSelection=#a79b8b
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#d9c68c
+ColorPalette=#3a342c;#d98c8c;#8cd98c;#d9c68c;#8cb3d9;#d98cc6;#8cd9d9;#d3cdc5;#3a342c;#d98c8c;#8cd98c;#d9c68c;#8cb3d9;#d98cc6;#8cd9d9;#d3cdc5

@@ -1,0 +1,10 @@
+[Scheme]
+Name=nightmare
+ColorCursor=#a19cb0
+ColorForeground=#d7d5dd
+ColorBackground=#24222a
+ColorSelectionBackground=#544f63
+ColorSelection=#a19cb0
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#ffaa80
+ColorPalette=#3c3947;#f86d6d;#86f9bf;#ffaa80;#bf9fdf;#ff99cc;#b3ffff;#d7d5dd;#3c3947;#f86d6d;#86f9bf;#ffaa80;#bf9fdf;#ff99cc;#b3ffff;#d7d5dd
