@@ -1,0 +1,10 @@
+[Scheme]
+Name=cyberstorm
+ColorCursor=#8b93c1
+ColorForeground=#c6cbec
+ColorBackground=#1f212d
+ColorSelectionBackground=#3e4774
+ColorSelection=#8b93c1
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#ffaa80
+ColorPalette=#34384b;#f0a8de;#bed775;#ffaa80;#96bfe9;#a890d5;#88ddc8;#c6cbec;#34384b;#f0a8de;#bed775;#ffaa80;#96bfe9;#a890d5;#88ddc8;#c6cbec
