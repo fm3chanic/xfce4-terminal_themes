@@ -1,0 +1,10 @@
+[Scheme]
+Name=synthetic
+ColorCursor=#A5A88B
+ColorForeground=#D3D4C6
+ColorBackground=#191919
+ColorSelectionBackground=#555741
+ColorSelection=#A5A88B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#e4a667
+ColorPalette=#333333;#e46767;#a6e467;#e4a667;#67c5e4;#e467a6;#67e4c5;#D3D4C6;#333333;#e46767;#a6e467;#e4a667;#67c5e4;#e467a6;#67e4c5;#D3D4C6
