@@ -1,0 +1,10 @@
+[Scheme]
+Name=candy-cane
+ColorCursor=#d1adad
+ColorForeground=#f6efef
+ColorBackground=#321b1b
+ColorSelectionBackground=#743e3e
+ColorSelection=#d1adad
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#edc95e
+ColorPalette=#532d2d;#e46767;#75d78d;#edc95e;#75a6d7;#d775a6;#75d7d7;#f6efef;#532d2d;#e46767;#75d78d;#edc95e;#75a6d7;#d775a6;#75d7d7;#f6efef

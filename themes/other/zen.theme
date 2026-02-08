@@ -1,0 +1,10 @@
+[Scheme]
+Name=zen
+ColorCursor=#bcbda8
+ColorForeground=#e9e9e2
+ColorBackground=#333333
+ColorSelectionBackground=#727458
+ColorSelection=#bcbda8
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c2c270
+ColorPalette=#4d4d4d;#b87a7a;#7ab88a;#c2c270;#7a99b8;#b87a99;#7ab8b8;#e9e9e2;#4d4d4d;#b87a7a;#7ab88a;#c2c270;#7a99b8;#b87a99;#7ab8b8;#e9e9e2

@@ -1,0 +1,10 @@
+[Scheme]
+Name=bamboo
+ColorCursor=#4B664B
+ColorForeground=#202B20
+ColorBackground=#CDE4CD
+ColorSelectionBackground=#98b398
+ColorSelection=#4B664B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#acac39
+ColorPalette=#ACD2AC;#ac3958;#39ac56;#acac39;#398fac;#7345a1;#39ac8f;#202B20;#ACD2AC;#ac3958;#39ac56;#acac39;#398fac;#7345a1;#39ac8f;#202B20

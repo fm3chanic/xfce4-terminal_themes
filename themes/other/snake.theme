@@ -1,0 +1,10 @@
+[Scheme]
+Name=snake
+ColorCursor=#a7c99c
+ColorForeground=#e2edde
+ColorBackground=#333333
+ColorSelectionBackground=#478557
+ColorSelection=#a7c99c
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#e9e97c
+ColorPalette=#4d4d4d;#e9977c;#97e97c;#e9e97c;#7ccee9;#e97c97;#7ce9ce;#e2edde;#4d4d4d;#e9977c;#97e97c;#e9e97c;#7ccee9;#e97c97;#7ce9ce;#e2edde

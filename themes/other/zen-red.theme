@@ -1,0 +1,10 @@
+[Scheme]
+Name=zen-red
+ColorCursor=#beb8a7
+ColorForeground=#e9e7e2
+ColorBackground=#333333
+ColorSelectionBackground=#7a525c
+ColorSelection=#beb8a7
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c2c270
+ColorPalette=#4d4d4d;#b87a7a;#7ab88a;#c2c270;#7a99b8;#b87a99;#7ab8b8;#e9e7e2;#4d4d4d;#b87a7a;#7ab88a;#c2c270;#7a99b8;#b87a99;#7ab8b8;#e9e7e2

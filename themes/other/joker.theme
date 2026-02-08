@@ -1,0 +1,10 @@
+[Scheme]
+Name=joker
+ColorCursor=#7ab88a
+ColorForeground=#bddbc5
+ColorBackground=#191221
+ColorSelectionBackground=#3d5c45
+ColorSelection=#7ab88a
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#cee97c
+ColorPalette=#322442;#f86d6d;#98e87d;#cee97c;#bf9fdf;#ff99cc;#b3ffff;#bddbc5;#322442;#f86d6d;#98e87d;#cee97c;#bf9fdf;#ff99cc;#b3ffff;#bddbc5
