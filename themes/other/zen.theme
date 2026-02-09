@@ -1,10 +1,10 @@
 [Scheme]
 Name=zen
-ColorCursor=#c2c5ab
-ColorForeground=#e7eeb4
-ColorBackground=#383838
-ColorSelectionBackground=#7c7e58
-ColorSelection=#c2c5ab
+ColorCursor=#BDBAB2
+ColorForeground=#E0D9C4
+ColorBackground=#3A333C
+ColorSelectionBackground=#746F62
+ColorSelection=#BDBAB2
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#c2c270
-ColorPalette=#525252;#b87a7a;#7ab88a;#c2c270;#7a99b8;#b87a99;#7ab8b8;#e7eeb4;#525252;#b87a7a;#7ab88a;#c2c270;#7a99b8;#b87a99;#7ab8b8;#e7eeb4
+TabActivityColor=#C2B071
+ColorPalette=#554A58;#C27171;#8AC271;#C2B071;#719EC2;#C271AE;#71C2C2;#E0D9C4;#554A58;#C27171;#8AC271;#C2B071;#719EC2;#C271AE;#71C2C2;#E0D9C4

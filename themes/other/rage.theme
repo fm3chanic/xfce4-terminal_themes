@@ -1,0 +1,10 @@
+[Scheme]
+Name=rage
+ColorCursor=#b6aac4
+ColorForeground=#d0c2df
+ColorBackground=#372E42
+ColorSelectionBackground=#7E596c
+ColorSelection=#b6aac4
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#CCB366
+ColorPalette=#504360;#CC66A2;#9CCC66;#CCB366;#8866CC;#BB66CC;#66CBCC;#d0c2df;#504360;#CC66A2;#9CCC66;#CCB366;#8866CC;#BB66CC;#66CBCC;#d0c2df
