@@ -1,0 +1,10 @@
+[Scheme]
+Name=team-plasma
+ColorCursor=#9999b2
+ColorForeground=#d3d3de
+ColorBackground=#21212c
+ColorSelectionBackground=#3e5974
+ColorSelection=#9999b2
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#eda65e
+ColorPalette=#373749;#cc6666;#99cc66;#eda65e;#79a6d2;#a682c9;#79d2d2;#d3d3de;#373749;#cc6666;#99cc66;#eda65e;#79a6d2;#a682c9;#79d2d2;#d3d3de
