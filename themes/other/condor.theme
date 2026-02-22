@@ -1,0 +1,10 @@
+[Scheme]
+Name=condor
+ColorCursor=#adb4c3
+ColorForeground=#c2cce0
+ColorBackground=#3f332e
+ColorSelectionBackground=#4c778c
+ColorSelection=#adb4c3
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#e8aa7f
+ColorPalette=#5e4c44;#e186ab;#c3e186;#e8aa7f;#86ace1;#a286e1;#86e1e1;#c2cce0;#5e4c44;#e186ab;#c3e186;#e8aa7f;#86ace1;#a286e1;#86e1e1;#c2cce0
