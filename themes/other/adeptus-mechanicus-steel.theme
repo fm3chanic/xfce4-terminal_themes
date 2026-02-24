@@ -1,0 +1,10 @@
+[Scheme]
+Name=adeptus-mechanicus-steel
+ColorCursor=#c6c1a9
+ColorForeground=#e3ddbf
+ColorBackground=#323e3e
+ColorSelectionBackground=#817a55
+ColorSelection=#c6c1a9
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c99482
+ColorPalette=#3e4c4c;#c58796;#b5c587;#c99482;#8ba6c1;#a68bc1;#9fc6c6;#e3ddbf;#3e4c4c;#c58796;#b5c587;#c99482;#8ba6c1;#a68bc1;#9fc6c6;#e3ddbf

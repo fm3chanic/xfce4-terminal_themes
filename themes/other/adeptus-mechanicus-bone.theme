@@ -1,0 +1,10 @@
+[Scheme]
+Name=adeptus-mechanicus-bone
+ColorCursor=#506262
+ColorForeground=#222a2a
+ColorBackground=#e8e3ca
+ColorSelectionBackground=#9dafaf
+ColorSelection=#506262
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#a15c45
+ColorPalette=#d8d0a6;#9b4b5f;#879b4b;#a15c45;#507395;#73568f;#568f8f;#222a2a;#d8d0a6;#9b4b5f;#879b4b;#a15c45;#507395;#73568f;#568f8f;#222a2a
