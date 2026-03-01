@@ -1,0 +1,10 @@
+[Scheme]
+Name=viper
+ColorCursor=#90c08B
+ColorForeground=#cfe4cd
+ColorBackground=#252928
+ColorSelectionBackground=#44753f
+ColorSelection=#90c08B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#cdcc67
+ColorPalette=#3c4241;#cc6480;#87cc65;#cdcc67;#65a8cc;#cc64ad;#64cccc;#cfe4cd;#3c4241;#cc6480;#87cc65;#cdcc67;#65a8cc;#cc64ad;#64cccc;#cfe4cd

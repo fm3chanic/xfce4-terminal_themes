@@ -1,0 +1,10 @@
+[Scheme]
+Name=rose
+ColorCursor=#b77a89
+ColorForeground=#dbbdc4
+ColorBackground=#181d18
+ColorSelectionBackground=#633641
+ColorSelection=#b77a89
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#bebe40
+ColorPalette=#2F372F;#be405d;#40be75;#bebe40;#404abe;#9f40be;#40b4be;#dbbdc4;#2F372F;#be405d;#40be75;#bebe40;#404abe;#9f40be;#40b4be;#dbbdc4
