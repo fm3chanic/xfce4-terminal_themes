@@ -1,10 +1,10 @@
 [Scheme]
 Name=rage
-ColorCursor=#b2b2bd
-ColorForeground=#cacad8
+ColorCursor=#bdb2b5
+ColorForeground=#d8cace
 ColorBackground=#37343d
-ColorSelectionBackground=#86505d
-ColorSelection=#b2b2bd
+ColorSelectionBackground=#636373
+ColorSelection=#bdb2b5
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#c99482
-ColorPalette=#504c59;#c587a7;#b5c587;#c99482;#988bc1;#c18bc1;#9fc6c6;#cacad8;#504c59;#c587a7;#b5c587;#c99482;#988bc1;#c18bc1;#9fc6c6;#cacad8
+TabActivityColor=#c9a582
+ColorPalette=#504c59;#c5879c;#b5c587;#c9a582;#8b99c1;#c18bb8;#9fc6c6;#d8cace;#504c59;#c5879c;#b5c587;#c9a582;#8b99c1;#c18bb8;#9fc6c6;#d8cace
