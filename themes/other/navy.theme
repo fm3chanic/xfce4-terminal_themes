@@ -1,0 +1,10 @@
+[Scheme]
+Name=navy
+ColorCursor=#94AFD2
+ColorForeground=#DAE3EF
+ColorBackground=#5E7278
+ColorSelectionBackground=#526469
+ColorSelection=#94AFD2
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#CCBB66
+ColorPalette=#768E94;#c27e70;#A1CC66;#CCBB66;#66ABCC;#a870c2;#66CCA1;#DAE3EF;#768E94;#c27e70;#A1CC66;#CCBB66;#66ABCC;#a870c2;#66CCA1;#DAE3EF
