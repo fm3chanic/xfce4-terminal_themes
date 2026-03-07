@@ -1,10 +1,10 @@
 [Scheme]
 Name=pilgrim-grey
-ColorCursor=#AFC1C1
-ColorForeground=#C2E0E0
+ColorCursor=#b2bdbd
+ColorForeground=#cad8d8
 ColorBackground=#2F3941
-ColorSelectionBackground=#5F7878
-ColorSelection=#AFC1C1
+ColorSelectionBackground=#637474
+ColorSelection=#b2bdbd
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#D7995C
-ColorPalette=#465460;#CA8192;#B7C981;#D7995C;#8382CA;#CB86C5;#81C9B1;#C2E0E0;#465460;#CA8192;#B7C981;#D7995C;#8382CA;#CB86C5;#81C9B1;#C2E0E0
+TabActivityColor=#c9a682
+ColorPalette=#465460;#CA8192;#B7C981;#c9a682;#8382CA;#CB86C5;#81C9B1;#cad8d8;#465460;#CA8192;#B7C981;#c9a682;#8382CA;#CB86C5;#81C9B1;#cad8d8
