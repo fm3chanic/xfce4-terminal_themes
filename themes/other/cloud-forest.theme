@@ -2,9 +2,9 @@
 Name=cloud-forest
 ColorCursor=#B0C1C1
 ColorForeground=#C2E0E0
-ColorBackground=#39472B
+ColorBackground=#394230
 ColorSelectionBackground=#5F7878
 ColorSelection=#B0C1C1
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#E0C983
-ColorPalette=#53653D;#d98cac;#B2E083;#E0C983;#83D0E0;#c18cd9;#83E0AA;#C2E0E0;#53653D;#d98cac;#B2E083;#E0C983;#83D0E0;#c18cd9;#83E0AA;#C2E0E0
+ColorPalette=#525f45;#d98cac;#B2E083;#E0C983;#8cb3d9;#c18cd9;#8cd9d9;#C2E0E0;#525f45;#d98cac;#B2E083;#E0C983;#8cb3d9;#c18cd9;#8cd9d9;#C2E0E0
