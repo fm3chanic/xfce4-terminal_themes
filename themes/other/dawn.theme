@@ -1,0 +1,10 @@
+[Scheme]
+Name=dawn
+ColorCursor=#CABB9C
+ColorForeground=#EDE8DD
+ColorBackground=#584058
+ColorSelectionBackground=#755575
+ColorSelection=#CABB9C
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#d9d98c
+ColorPalette=#3A2A3A;#D98D8D;#9ed590;#d9d98c;#8DA6D9;#D98DD9;#8DD9C1;#EDE8DD;#3A2A3A;#D98D8D;#9ed590;#d9d98c;#8DA6D9;#D98DD9;#8DD9C1;#EDE8DD

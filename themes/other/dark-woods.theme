@@ -1,0 +1,10 @@
+[Scheme]
+Name=dark-woods
+ColorCursor=#8681C9
+ColorForeground=#C4C1F0
+ColorBackground=#1D1E2D
+ColorSelectionBackground=#455F6C
+ColorSelection=#8681C9
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#DEAA45
+ColorPalette=#32344E;#BD6666;#92BD66;#DEAA45;#8366BD;#BD66BC;#66BDB6;#C4C1F0;#32344E;#BD6666;#92BD66;#DEAA45;#8366BD;#BD66BC;#66BDB6;#C4C1F0

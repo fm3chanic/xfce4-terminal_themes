@@ -1,0 +1,10 @@
+[Scheme]
+Name=adeptus-mechanicus-darker
+ColorCursor=#99ABB3
+ColorForeground=#C9DEE8
+ColorBackground=#321B22
+ColorSelectionBackground=#4B5D65
+ColorSelection=#99ABB3
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#BB9A60
+ColorPalette=#522C37;#BB6087;#85af6a;#BB9A60;#6068BB;#af6aaf;#60BBBA;#C9DEE8;#522C37;#BB6087;#85af6a;#BB9A60;#6068BB;#af6aaf;#60BBBA;#C9DEE8

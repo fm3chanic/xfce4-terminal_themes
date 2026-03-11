@@ -1,0 +1,10 @@
+[Scheme]
+Name=inquisitorius
+ColorCursor=#C5BCA9
+ColorForeground=#E4D7BE
+ColorBackground=#492730
+ColorSelectionBackground=#807256
+ColorSelection=#C5BCA9
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#C29371
+ColorPalette=#6B3946;#C271A1;#71C293;#C29371;#7192C2;#A671C2;#71C2C2;#E4D7BE;#6B3946;#C271A1;#71C293;#C29371;#7192C2;#A671C2;#71C2C2;#E4D7BE

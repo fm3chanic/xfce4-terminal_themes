@@ -1,0 +1,10 @@
+[Scheme]
+Name=toxic
+ColorCursor=#83CAA7
+ColorForeground=#C8E7D8
+ColorBackground=#163525
+ColorSelectionBackground=#357D59
+ColorSelection=#83CAA7
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c9c982
+ColorPalette=#275A40;#C3617A;#88d279;#c9c982;#6190d1;#b282c9;#5bc8b8;#C8E7D8;#275A40;#C3617A;#88d279;#c9c982;#6190d1;#b282c9;#5bc8b8;#C8E7D8

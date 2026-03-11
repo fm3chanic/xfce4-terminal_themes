@@ -1,10 +1,10 @@
 [Scheme]
 Name=adeptus-mechanicus-dark
-ColorCursor=#9da5af
-ColorForeground=#d1d8e0
-ColorBackground=#321e1b
-ColorSelectionBackground=#55595e
-ColorSelection=#9da5af
+ColorCursor=#A9B7C6
+ColorForeground=#C0D1E4
+ColorBackground=#492731
+ColorSelectionBackground=#556B81
+ColorSelection=#A9B7C6
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#c99482
-ColorPalette=#53322d;#c58796;#b5c587;#c99482;#8ba6c1;#a68bc1;#9fc6c6;#d1d8e0;#53322d;#c58796;#b5c587;#c99482;#8ba6c1;#a68bc1;#9fc6c6;#d1d8e0
+TabActivityColor=#CCB366
+ColorPalette=#6A3846;#CC6677;#80b381;#CCB366;#6687CC;#c270a7;#66CBCC;#C0D1E4;#6A3846;#CC6677;#80b381;#CCB366;#6687CC;#c270a7;#66CBCC;#C0D1E4

@@ -1,0 +1,10 @@
+[Scheme]
+Name=astra-militarum-officer
+ColorCursor=#CAC482
+ColorForeground=#EFECC0
+ColorBackground=#242728
+ColorSelectionBackground=#733F48
+ColorSelection=#CAC482
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#CCA166
+ColorPalette=#3D4243;#CC6666;#66CC70;#CCA166;#666ECC;#c270a0;#66B1CC;#EFECC0;#3D4243;#CC6666;#66CC70;#CCA166;#666ECC;#c270a0;#66B1CC;#EFECC0

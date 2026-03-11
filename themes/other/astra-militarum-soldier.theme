@@ -1,0 +1,10 @@
+[Scheme]
+Name=astra-militarum-soldier
+ColorCursor=#CDC6A3
+ColorForeground=#E8E2BD
+ColorBackground=#39422C
+ColorSelectionBackground=#8B804B
+ColorSelection=#CDC6A3
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#CCA166
+ColorPalette=#546241;#CC6666;#66CC70;#CCA166;#666ECC;#CC66A1;#66B1CC;#E8E2BD;#546241;#CC6666;#66CC70;#CCA166;#666ECC;#CC66A1;#66B1CC;#E8E2BD

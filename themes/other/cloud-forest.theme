@@ -1,10 +1,10 @@
 [Scheme]
 Name=cloud-forest
-ColorCursor=#B0C1C1
-ColorForeground=#C2E0E0
-ColorBackground=#394230
-ColorSelectionBackground=#5F7878
-ColorSelection=#B0C1C1
+ColorCursor=#AAC7C7
+ColorForeground=#B5EDED
+ColorBackground=#2D4531
+ColorSelectionBackground=#568181
+ColorSelection=#AAC7C7
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#E0C983
-ColorPalette=#525f45;#d98cac;#B2E083;#E0C983;#8cb3d9;#c18cd9;#8cd9d9;#C2E0E0;#525f45;#d98cac;#B2E083;#E0C983;#8cb3d9;#c18cd9;#8cd9d9;#C2E0E0
+TabActivityColor=#CC9166
+ColorPalette=#416146;#C27193;#99C769;#CC9166;#6BB7C7;#A670C1;#6DC792;#B5EDED;#416146;#C27193;#99C769;#CC9166;#6BB7C7;#A670C1;#6DC792;#B5EDED
