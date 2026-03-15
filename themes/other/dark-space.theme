@@ -1,10 +1,10 @@
 [Scheme]
 Name=dark-space
-ColorCursor=#c3acc3
-ColorForeground=#eeb5ee
-ColorBackground=#3d343d
-ColorSelectionBackground=#746374
-ColorSelection=#c3acc3
+ColorCursor=#b497b4
+ColorForeground=#eec4ee
+ColorBackground=#292329
+ColorSelectionBackground=#605260
+ColorSelection=#b497b4
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#e09c85
-ColorPalette=#584b58;#e0859c;#c2d194;#e09c85;#b38cd9;#e085c9;#94d1c2;#eeb5ee;#584b58;#e0859c;#c2d194;#e09c85;#b38cd9;#e085c9;#94d1c2;#eeb5ee
+ColorPalette=#453b45;#e0859c;#c2d194;#e09c85;#b38cd9;#e085c9;#94d1c2;#eec4ee;#453b45;#e0859c;#c2d194;#e09c85;#b38cd9;#e085c9;#94d1c2;#eec4ee
