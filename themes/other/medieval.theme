@@ -1,0 +1,10 @@
+[Scheme]
+Name=medieval
+ColorCursor=#B1BABF
+ColorForeground=#C4D6DF
+ColorBackground=#493327
+ColorSelectionBackground=#606E75
+ColorSelection=#B1BABF
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#C68454
+ColorPalette=#6A4A38;#C65474;#6aaf6e;#C68454;#5F76BB;#BB5FBB;#5FBBB9;#C4D6DF;#6A4A38;#C65474;#6aaf6e;#C68454;#5F76BB;#BB5FBB;#5FBBB9;#C4D6DF
