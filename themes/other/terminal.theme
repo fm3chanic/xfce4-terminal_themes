@@ -1,0 +1,10 @@
+[Scheme]
+Name=terminal
+ColorCursor=#91BA9F
+ColorForeground=#C1F0D0
+ColorBackground=#282525
+ColorSelectionBackground=#456E53
+ColorSelection=#91BA9F
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c9a582
+ColorPalette=#433C3C;#c5879c;#b5c587;#c9a582;#8b99c1;#c18bb8;#9fc6c6;#C1F0D0;#433C3C;#c5879c;#b5c587;#c9a582;#8b99c1;#c18bb8;#9fc6c6;#C1F0D0
