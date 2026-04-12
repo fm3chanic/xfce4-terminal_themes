@@ -1,10 +1,10 @@
 [Scheme]
 Name=aquatic
-ColorCursor=#93D1AE
-ColorForeground=#DCF0E5
-ColorBackground=#3C7F8C
-ColorSelectionBackground=#3F6C74
-ColorSelection=#93D1AE
+ColorCursor=#9DC7A7
+ColorForeground=#D6F4DC
+ColorBackground=#37615F
+ColorSelectionBackground=#497882
+ColorSelection=#9DC7A7
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#CCBA65
-ColorPalette=#4DA1B1;#c08c8c;#88CC65;#CCBA65;#7db3e8;#b48bc1;#65CCC9;#DCF0E5;#4DA1B1;#c08c8c;#88CC65;#CCBA65;#7db3e8;#b48bc1;#65CCC9;#DCF0E5
+ColorPalette=#24413F;#c08c8c;#88CC65;#CCBA65;#7db3e8;#b48bc1;#65CCC9;#D6F4DC;#24413F;#c08c8c;#88CC65;#CCBA65;#7db3e8;#b48bc1;#65CCC9;#D6F4DC

@@ -1,0 +1,10 @@
+[Scheme]
+Name=rust
+ColorCursor=#C7C1A7
+ColorForeground=#E4DDBD
+ColorBackground=#3E3430
+ColorSelectionBackground=#826453
+ColorSelection=#C7C1A7
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D2AD79
+ColorPalette=#5B4C47;#C17D70;#ADC170;#D2AD79;#8D82C9;#C982AC;#7AB797;#E4DDBD;#5B4C47;#C17D70;#ADC170;#D2AD79;#8D82C9;#C982AC;#7AB797;#E4DDBD
