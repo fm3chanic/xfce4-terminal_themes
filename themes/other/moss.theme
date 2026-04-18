@@ -1,10 +1,10 @@
 [Scheme]
 Name=moss
-ColorCursor=#BCD093
-ColorForeground=#E8EFDB
-ColorBackground=#6C8648
-ColorSelectionBackground=#5E743E
-ColorSelection=#BCD093
+ColorCursor=#C1C99B
+ColorForeground=#EFF4D6
+ColorBackground=#5B6335
+ColorSelectionBackground=#798447
+ColorSelection=#C1C99B
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#d9d28c
-ColorPalette=#85A558;#d98ca6;#9fdfa5;#d9d28c;#9fafdf;#c8a6d9;#8cd7d9;#E8EFDB;#85A558;#d98ca6;#9fdfa5;#d9d28c;#9fafdf;#c8a6d9;#8cd7d9;#E8EFDB
+TabActivityColor=#CCC265
+ColorPalette=#3C4223;#B77A8F;#6BC673;#CCC265;#6B82C6;#A37AB7;#70BFC1;#EFF4D6;#3C4223;#B77A8F;#6BC673;#CCC265;#6B82C6;#A37AB7;#70BFC1;#EFF4D6

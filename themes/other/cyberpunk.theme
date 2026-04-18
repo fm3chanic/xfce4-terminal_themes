@@ -1,10 +1,10 @@
 [Scheme]
 Name=cyberpunk
-ColorCursor=#c4abc4
-ColorForeground=#e1c1e1
-ColorBackground=#2e3142
-ColorSelectionBackground=#7e587e
-ColorSelection=#c4abc4
+ColorCursor=#B595B5
+ColorForeground=#DFD1DF
+ColorBackground=#1F212D
+ColorSelectionBackground=#694969
+ColorSelection=#B595B5
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#eccf79
-ColorPalette=#434860;#e06c6c;#bed775;#eccf79;#79d2d2;#d874a6;#74d88d;#e1c1e1;#434860;#e06c6c;#bed775;#eccf79;#79d2d2;#d874a6;#74d88d;#e1c1e1
+ColorPalette=#34374B;#e06c6c;#bed775;#eccf79;#79d2d2;#d874a6;#74d88d;#DFD1DF;#34374B;#e06c6c;#bed775;#eccf79;#79d2d2;#d874a6;#74d88d;#DFD1DF
