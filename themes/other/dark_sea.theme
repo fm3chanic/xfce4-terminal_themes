@@ -1,0 +1,10 @@
+[Scheme]
+Name=dark_sea
+ColorCursor=#5D8CC0
+ColorForeground=#5E9683
+ColorBackground=#1d262f
+ColorSelectionBackground=#3A4C5E
+ColorSelection=#5D8CC0
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#BFAD58
+ColorPalette=#303F4E;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#5E9683;#303F4E;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#5E9683

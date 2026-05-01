@@ -1,0 +1,10 @@
+[Scheme]
+Name=dark_sky
+ColorCursor=#715F95
+ColorForeground=#B07745
+ColorBackground=#2C2734
+ColorSelectionBackground=#453D51
+ColorSelection=#715F95
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#BFAD58
+ColorPalette=#453D51;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#B07745;#453D51;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#B07745

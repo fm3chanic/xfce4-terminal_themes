@@ -1,0 +1,10 @@
+[Scheme]
+Name=dark_earth
+ColorCursor=#98755D
+ColorForeground=#9F8955
+ColorBackground=#2c2826
+ColorSelectionBackground=#544D49
+ColorSelection=#98755D
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#BFAD58
+ColorPalette=#47403D;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#9F8955;#47403D;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#9F8955

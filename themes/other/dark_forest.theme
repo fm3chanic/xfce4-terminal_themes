@@ -1,0 +1,10 @@
+[Scheme]
+Name=dark_forest
+ColorCursor=#869886
+ColorForeground=#A9BCA9
+ColorBackground=#2A2D2A
+ColorSelectionBackground=#4E544E
+ColorSelection=#869886
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#BFAD58
+ColorPalette=#424742;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#A9BCA9;#424742;#AE6982;#9CB464;#BFAD58;#64A6B4;#A269AE;#64B489;#A9BCA9
