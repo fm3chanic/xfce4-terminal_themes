@@ -1,10 +1,10 @@
 [Scheme]
 Name=terminal
-ColorCursor=#69AE92
-ColorForeground=#ACD2C2
-ColorBackground=#282525
-ColorSelectionBackground=#3E745D
-ColorSelection=#69AE92
+ColorCursor=#75A394
+ColorForeground=#B7E0D3
+ColorBackground=#1b1818
+ColorSelectionBackground=#476B5F
+ColorSelection=#75A394
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#DBD270
-ColorPalette=#433C3C;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#ACD2C2;#433C3C;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#ACD2C2
+ColorPalette=#363030;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#B7E0D3;#363030;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#B7E0D3

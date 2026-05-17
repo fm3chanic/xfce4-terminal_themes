@@ -1,0 +1,10 @@
+[Scheme]
+Name=terminalv2
+ColorCursor=#80A375
+ColorForeground=#C1E0B7
+ColorBackground=#1b1818
+ColorSelectionBackground=#4F6B46
+ColorSelection=#80A375
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#DBD270
+ColorPalette=#363030;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#C1E0B7;#363030;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#C1E0B7
