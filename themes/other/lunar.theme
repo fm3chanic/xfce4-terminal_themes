@@ -1,0 +1,10 @@
+[Scheme]
+Name=lunar
+ColorCursor=#B1A180
+ColorForeground=#EAD6AD
+ColorBackground=#3B333C
+ColorSelectionBackground=#847351
+ColorSelection=#B1A180
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D6985B
+ColorPalette=#554B58;#C1707B;#96C486;#D6985B;#70A3C1;#B375BC;#86C4AA;#EAD6AD;#554B58;#C1707B;#96C486;#D6985B;#70A3C1;#B375BC;#86C4AA;#EAD6AD

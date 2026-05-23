@@ -1,0 +1,10 @@
+[Scheme]
+Name=crypt
+ColorCursor=#89B77A
+ColorForeground=#B6F4A2
+ColorBackground=#3B333C
+ColorSelectionBackground=#64775E
+ColorSelection=#89B77A
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D6985B
+ColorPalette=#554B58;#C1707B;#96C486;#D6985B;#70A3C1;#B375BC;#86C4AA;#B6F4A2;#554B58;#C1707B;#96C486;#D6985B;#70A3C1;#B375BC;#86C4AA;#B6F4A2
