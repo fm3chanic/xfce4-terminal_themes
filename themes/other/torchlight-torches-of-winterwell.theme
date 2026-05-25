@@ -2,9 +2,9 @@
 Name=torchlight-torches-of-winterwell
 ColorCursor=#D08745
 ColorForeground=#F0BE77
-ColorBackground=#1E1614
+ColorBackground=#292321
 ColorSelectionBackground=#52697B
 ColorSelection=#D08745
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#EAA747
-ColorPalette=#3D2D28;#CB544D;#A0C66B;#EAA747;#3088BA;#8A63B3;#6FC19F;#F0BE77;#3D2D28;#CB544D;#A0C66B;#EAA747;#3088BA;#8A63B3;#6FC19F;#F0BE77
+TabActivityColor=#E7CC7C
+ColorPalette=#463B39;#CC6B65;#AAC486;#E7CC7C;#60A8D1;#987AB7;#86C4AB;#F0BE77;#463B39;#CC6B65;#AAC486;#E7CC7C;#60A8D1;#987AB7;#86C4AB;#F0BE77

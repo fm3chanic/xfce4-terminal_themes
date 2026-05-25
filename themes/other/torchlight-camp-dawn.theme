@@ -1,0 +1,10 @@
+[Scheme]
+Name=torchlight-camp-dawn
+ColorCursor=#D08745
+ColorForeground=#F0BE77
+ColorBackground=#2D211E
+ColorSelectionBackground=#6A362C
+ColorSelection=#D08745
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#E7CC7C
+ColorPalette=#4C3833;#CC6B65;#AAC486;#E7CC7C;#60A8D1;#987AB7;#86C4AB;#F0BE77;#4C3833;#CC6B65;#AAC486;#E7CC7C;#60A8D1;#987AB7;#86C4AB;#F0BE77
