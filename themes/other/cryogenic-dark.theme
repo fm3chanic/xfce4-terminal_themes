@@ -1,0 +1,10 @@
+[Scheme]
+Name=cryogenic-dark
+ColorCursor=#abbfc4
+ColorForeground=#b4e2ee
+ColorBackground=#272923
+ColorSelectionBackground=#496269
+ColorSelection=#abbfc4
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#CEDC88
+ColorPalette=#43443A;#dd889d;#8cd9b3;#CEDC88;#8c9fd9;#d98cc6;#8cc6d9;#b4e2ee;#43443A;#dd889d;#8cd9b3;#CEDC88;#8c9fd9;#d98cc6;#8cc6d9;#b4e2ee

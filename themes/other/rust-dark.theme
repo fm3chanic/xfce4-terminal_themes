@@ -1,0 +1,10 @@
+[Scheme]
+Name=rust-dark
+ColorCursor=#C7C1A7
+ColorForeground=#E4DDBD
+ColorBackground=#2B2421
+ColorSelectionBackground=#6C5345
+ColorSelection=#C7C1A7
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D2AD79
+ColorPalette=#473C37;#C17D70;#ADC170;#D2AD79;#8D82C9;#C982AC;#7AB797;#E4DDBD;#473C37;#C17D70;#ADC170;#D2AD79;#8D82C9;#C982AC;#7AB797;#E4DDBD

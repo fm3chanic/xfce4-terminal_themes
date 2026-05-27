@@ -1,0 +1,10 @@
+[Scheme]
+Name=neo-industrial-dark
+ColorCursor=#c0bdaf
+ColorForeground=#e7e0bb
+ColorBackground=#272923
+ColorSelectionBackground=#64604E
+ColorSelection=#c0bdaf
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#CEDC88
+ColorPalette=#43443A;#dd889d;#8cd9b3;#CEDC88;#8c9fd9;#d98cc6;#8cc6d9;#e7e0bb;#43443A;#dd889d;#8cd9b3;#CEDC88;#8c9fd9;#d98cc6;#8cc6d9;#e7e0bb
