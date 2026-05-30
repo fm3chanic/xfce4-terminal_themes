@@ -1,0 +1,10 @@
+[Scheme]
+Name=silicon
+ColorCursor=#7F969B
+ColorForeground=#B8C4C7
+ColorBackground=#1E2327
+ColorSelectionBackground=#435652
+ColorSelection=#7F969B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#BDB775
+ColorPalette=#363F47;#C76C76;#90BD75;#BDB775;#8082C9;#C183CA;#70C29F;#B8C4C7;#363F47;#C76C76;#90BD75;#BDB775;#8082C9;#C183CA;#70C29F;#B8C4C7
