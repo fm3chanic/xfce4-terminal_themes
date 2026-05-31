@@ -1,0 +1,10 @@
+[Scheme]
+Name=native
+ColorCursor=#A4A59E
+ColorForeground=#D4D5D2
+ColorBackground=#272822
+ColorSelectionBackground=#525146
+ColorSelection=#A4A59E
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#DFD66B
+ColorPalette=#43443A;#D18047;#8CBF58;#DFD66B;#8474D6;#BA5E7C;#74C6D6;#D4D5D2;#43443A;#D18047;#8CBF58;#DFD66B;#8474D6;#BA5E7C;#74C6D6;#D4D5D2
