@@ -1,0 +1,10 @@
+[Scheme]
+Name=alien
+ColorCursor=#70B270
+ColorForeground=#A1E7A1
+ColorBackground=#1A2723
+ColorSelectionBackground=#436443
+ColorSelection=#70B270
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#DB9856
+ColorPalette=#2E463E;#D66C5B;#ADD65B;#DB9856;#5BADD6;#CC65A9;#65CCB2;#A1E7A1;#2E463E;#D66C5B;#ADD65B;#DB9856;#5BADD6;#CC65A9;#65CCB2;#A1E7A1
