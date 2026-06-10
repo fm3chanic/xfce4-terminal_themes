@@ -1,0 +1,10 @@
+[Scheme]
+Name=breath-dark
+ColorCursor=#82a0a6
+ColorForeground=#b4c7ca
+ColorBackground=#243032
+ColorSelectionBackground=#4f7058
+ColorSelection=#82a0a6
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c4cb71
+ColorPalette=#394c4f;#c86c85;#72c769;#c4cb71;#6b8dc7;#c669b5;#73c2b2;#b4c7ca;#394c4f;#c86c85;#72c769;#c4cb71;#6b8dc7;#c669b5;#73c2b2;#b4c7ca

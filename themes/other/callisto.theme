@@ -1,0 +1,10 @@
+[Scheme]
+Name=callisto
+ColorCursor=#ba7fba
+ColorForeground=#e0a1e0
+ColorBackground=#2d2331
+ColorSelectionBackground=#4f666e
+ColorSelection=#ba7fba
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#ddac3c
+ColorPalette=#4a3a50;#c05974;#52c67f;#ddac3c;#4b92d2;#d148a4;#53c5c5;#e0a1e0;#4a3a50;#c05974;#52c67f;#ddac3c;#4b92d2;#d148a4;#53c5c5;#e0a1e0
