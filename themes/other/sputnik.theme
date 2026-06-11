@@ -1,0 +1,10 @@
+[Scheme]
+Name=sputnik
+ColorCursor=#a0aaad
+ColorForeground=#cddfe3
+ColorBackground=#18131a
+ColorSelectionBackground=#626e71
+ColorSelection=#a0aaad
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#fcd759
+ColorPalette=#322737;#ee5148;#96b16f;#fcd759;#4162dc;#9d50d1;#41bed8;#cddfe3;#322737;#ee5148;#96b16f;#fcd759;#4162dc;#9d50d1;#41bed8;#cddfe3

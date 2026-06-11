@@ -1,0 +1,10 @@
+[Scheme]
+Name=apollo
+ColorCursor=#bec38a
+ColorForeground=#eff4bc
+ColorBackground=#18131a
+ColorSelectionBackground=#7d8152
+ColorSelection=#bec38a
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#fcd759
+ColorPalette=#322737;#ee5148;#96b16f;#fcd759;#4162dc;#9d50d1;#41bed8;#eff4bc;#322737;#ee5148;#96b16f;#fcd759;#4162dc;#9d50d1;#41bed8;#eff4bc
