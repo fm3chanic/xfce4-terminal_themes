@@ -1,0 +1,10 @@
+[Scheme]
+Name=terminalv4
+ColorCursor=#C18C6E
+ColorForeground=#F4C0A2
+ColorBackground=#1b1818
+ColorSelectionBackground=#69422D
+ColorSelection=#C18C6E
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#DBD270
+ColorPalette=#363030;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#F4C0A2;#363030;#c5879c;#b5c587;#DBD270;#8b99c1;#c18bb8;#93D1D1;#F4C0A2

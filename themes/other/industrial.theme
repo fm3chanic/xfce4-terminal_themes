@@ -1,0 +1,10 @@
+[Scheme]
+Name=industrial
+ColorCursor=#A08944
+ColorForeground=#856F2C
+ColorBackground=#D5D0C2
+ColorSelectionBackground=#B7A87A
+ColorSelection=#A08944
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#B7722D
+ColorPalette=#C0B9A4;#B7392D;#6E9932;#B7722D;#2D72B7;#5B2DB7;#28A385;#856F2C;#C0B9A4;#B7392D;#6E9932;#B7722D;#2D72B7;#5B2DB7;#28A385;#856F2C
