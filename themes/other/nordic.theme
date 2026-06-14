@@ -1,0 +1,10 @@
+[Scheme]
+Name=nordic
+ColorCursor=#8BABAD
+ColorForeground=#C7D6D8
+ColorBackground=#222E34
+ColorSelectionBackground=#4E696F
+ColorSelection=#8BABAD
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#DBC355
+ColorPalette=#364852;#CB656D;#8CBF71;#DBC355;#65A1CB;#AD6FC1;#6FC1AD;#C7D6D8;#364852;#CB656D;#8CBF71;#DBC355;#65A1CB;#AD6FC1;#6FC1AD;#C7D6D8

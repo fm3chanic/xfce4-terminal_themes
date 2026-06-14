@@ -1,0 +1,10 @@
+[Scheme]
+Name=classicv2
+ColorCursor=#AEB3B6
+ColorForeground=#E4E5E6
+ColorBackground=#1A1818
+ColorSelectionBackground=#504948
+ColorSelection=#AEB3B6
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#E4CF67
+ColorPalette=#353130;#CC656E;#A1CC65;#E4CF67;#6599CC;#8765CC;#65CCB2;#E4E5E6;#353130;#CC656E;#A1CC65;#E4CF67;#6599CC;#8765CC;#65CCB2;#E4E5E6
