@@ -1,0 +1,10 @@
+[Scheme]
+Name=victorian
+ColorCursor=#8A9B9B
+ColorForeground=#BECCCC
+ColorBackground=#302E29
+ColorSelectionBackground=#72654C
+ColorSelection=#8A9B9B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D8C075
+ColorPalette=#4A463F;#AE6874;#77A86D;#D8C075;#6E90A8;#A86D9D;#6EA890;#BECCCC;#4A463F;#AE6874;#77A86D;#D8C075;#6E90A8;#A86D9D;#6EA890;#BECCCC
