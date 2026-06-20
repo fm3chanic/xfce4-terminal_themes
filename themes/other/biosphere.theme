@@ -1,0 +1,10 @@
+[Scheme]
+Name=biosphere
+ColorCursor=#8c949b
+ColorForeground=#c2c6cb
+ColorBackground=#27302e
+ColorSelectionBackground=#585f65
+ColorSelection=#8c949b
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c5ad65
+ColorPalette=#3e4b48;#be7077;#91ae68;#c5ad65;#6aaeae;#a672a4;#71a776;#c2c6cb;#3e4b48;#be7077;#91ae68;#c5ad65;#6aaeae;#a672a4;#71a776;#c2c6cb
