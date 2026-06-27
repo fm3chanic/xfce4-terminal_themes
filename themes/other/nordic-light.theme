@@ -1,0 +1,10 @@
+[Scheme]
+Name=nordic-light
+ColorCursor=#314963
+ColorForeground=#151D2B
+ColorBackground=#D4E5ED
+ColorSelectionBackground=#7294B0
+ColorSelection=#314963
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#A56428
+ColorPalette=#A2B8CD;#A32A2A;#2AA361;#A56428;#2A54A3;#A32A68;#2AA2A3;#151D2B;#A2B8CD;#A32A2A;#2AA361;#A56428;#2A54A3;#A32A68;#2AA2A3;#151D2B

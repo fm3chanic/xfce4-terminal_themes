@@ -1,0 +1,10 @@
+[Scheme]
+Name=cyrodiil-light
+ColorCursor=#665C58
+ColorForeground=#3F2927
+ColorBackground=#F3EEDB
+ColorSelectionBackground=#C2B48F
+ColorSelection=#665C58
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#A36529
+ColorPalette=#CABEB0;#A3293F;#84A329;#A36529;#2976A3;#A32995;#29A37F;#3F2927;#CABEB0;#A3293F;#84A329;#A36529;#2976A3;#A32995;#29A37F;#3F2927

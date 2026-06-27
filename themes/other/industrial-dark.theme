@@ -1,0 +1,10 @@
+[Scheme]
+Name=industrial-dark
+ColorCursor=#B3B18B
+ColorForeground=#E4E2C5
+ColorBackground=#313326
+ColorSelectionBackground=#686B58
+ColorSelection=#B3B18B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#E0A850
+ColorPalette=#4A4D41;#E25C50;#B3C271;#E0A850;#6588CC;#DF53AC;#71B7C1;#E4E2C5;#4A4D41;#E25C50;#B3C271;#E0A850;#6588CC;#DF53AC;#71B7C1;#E4E2C5

@@ -1,0 +1,10 @@
+[Scheme]
+Name=cyrodiil-dark
+ColorCursor=#9E9167
+ColorForeground=#C5BFA5
+ColorBackground=#191A1C
+ColorSelectionBackground=#42454A
+ColorSelection=#9E9167
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D7B042
+ColorPalette=#2E3238;#BB5E76;#95BA5F;#D7B042;#6C5FBA;#BA5F9F;#5FBA9E;#C5BFA5;#2E3238;#BB5E76;#95BA5F;#D7B042;#6C5FBA;#BA5F9F;#5FBA9E;#C5BFA5
