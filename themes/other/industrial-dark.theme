@@ -2,9 +2,9 @@
 Name=industrial-dark
 ColorCursor=#B3B18B
 ColorForeground=#E4E2C5
-ColorBackground=#313326
+ColorBackground=#303127
 ColorSelectionBackground=#686B58
 ColorSelection=#B3B18B
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#E0A850
-ColorPalette=#4A4D41;#E25C50;#B3C271;#E0A850;#6588CC;#DF53AC;#71B7C1;#E4E2C5;#4A4D41;#E25C50;#B3C271;#E0A850;#6588CC;#DF53AC;#71B7C1;#E4E2C5
+TabActivityColor=#DAA655
+ColorPalette=#4A4E3E;#C17670;#B3C271;#DAA655;#6F8BC1;#C170A4;#71B7C1;#E4E2C5;#4A4E3E;#C17670;#B3C271;#DAA655;#6F8BC1;#C170A4;#71B7C1;#E4E2C5

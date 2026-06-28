@@ -1,0 +1,10 @@
+[Scheme]
+Name=pandora
+ColorCursor=#63464f
+ColorForeground=#2b171e
+ColorBackground=#d1d1ba
+ColorSelectionBackground=#9d9687
+ColorSelection=#63464f
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#976611
+ColorPalette=#bcbc9b;#882d22;#6d7b2f;#976611;#29507e;#822481;#2a727c;#2b171e;#bcbc9b;#882d22;#6d7b2f;#976611;#29507e;#822481;#2a727c;#2b171e
