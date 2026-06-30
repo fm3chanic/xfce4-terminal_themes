@@ -1,0 +1,10 @@
+[Scheme]
+Name=pandora-dark
+ColorCursor=#A7A77B
+ColorForeground=#CFCFB8
+ColorBackground=#241D1F
+ColorSelectionBackground=#5C574B
+ColorSelection=#A7A77B
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D6B75B
+ColorPalette=#413337;#AE7569;#9DAE69;#D6B75B;#698CAE;#AE6997;#69AE8C;#CFCFB8;#413337;#AE7569;#9DAE69;#D6B75B;#698CAE;#AE6997;#69AE8C;#CFCFB8
