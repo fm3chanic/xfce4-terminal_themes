@@ -1,0 +1,10 @@
+[Scheme]
+Name=cryochamber
+ColorCursor=#899481
+ColorForeground=#c0c9af
+ColorBackground=#1b1a19
+ColorSelectionBackground=#545b4e
+ColorSelection=#899481
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#c68a3a
+ColorPalette=#363432;#bb5f7e;#97ac6b;#c68a3a;#5fa2bb;#bb5fba;#6baf87;#c0c9af;#363432;#bb5f7e;#97ac6b;#c68a3a;#5fa2bb;#bb5fba;#6baf87;#c0c9af

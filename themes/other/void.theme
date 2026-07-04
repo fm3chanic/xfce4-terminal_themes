@@ -1,0 +1,10 @@
+[Scheme]
+Name=void
+ColorCursor=#7cbca6
+ColorForeground=#aeebd6
+ColorBackground=#201222
+ColorSelectionBackground=#356756
+ColorSelection=#7cbca6
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#d6945a
+ColorPalette=#402344;#d65a7e;#a7c36d;#d6945a;#6a7cc6;#c769aa;#6dc3a9;#aeebd6;#402344;#d65a7e;#a7c36d;#d6945a;#6a7cc6;#c769aa;#6dc3a9;#aeebd6
