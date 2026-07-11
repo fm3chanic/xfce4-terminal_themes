@@ -1,0 +1,10 @@
+[Scheme]
+Name=CmdAdvanced
+ColorCursor=#9D959E
+ColorForeground=#BFB9BF
+ColorBackground=#1B191C
+ColorSelectionBackground=#6A626C
+ColorSelection=#9D959E
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#F1BC5B
+ColorPalette=#353136;#AC3A3A;#91AE3A;#C69D53;#3A59AE;#AE3A82;#3AAEAD;#BFB9BF;#504A51;#E05050;#A9C653;#F1BC5B;#6681CC;#C55299;#54C6C5;#D1CCD1
