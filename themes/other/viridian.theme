@@ -1,0 +1,10 @@
+[Scheme]
+Name=viridian
+ColorCursor=#b7ac90
+ColorForeground=#d9d3c5
+ColorBackground=#373631
+ColorSelectionBackground=#816d4c
+ColorSelection=#b7ac90
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#d2a963
+ColorPalette=#515048;#bc7486;#92Ba73;#d2a963;#807abc;#ad7abc;#76bfa2;#d9d3c5;#515048;#bc7486;#92Ba73;#d2a963;#807abc;#ad7abc;#76bfa2;#d9d3c5
