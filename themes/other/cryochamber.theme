@@ -2,9 +2,9 @@
 Name=cryochamber
 ColorCursor=#899481
 ColorForeground=#c0c9af
-ColorBackground=#1b1a19
+ColorBackground=#1C1A17
 ColorSelectionBackground=#545b4e
 ColorSelection=#899481
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#c68a3a
-ColorPalette=#363432;#bb5f7e;#97ac6b;#c68a3a;#5fa2bb;#bb5fba;#6baf87;#c0c9af;#363432;#bb5f7e;#97ac6b;#c68a3a;#5fa2bb;#bb5fba;#6baf87;#c0c9af
+TabActivityColor=#DBAD70
+ColorPalette=#38342F;#C08A9D;#AFC08A;#DBAD70;#8AB1C0;#C08ABF;#8AC0A1;#c0c9af;#38342F;#C08A9D;#AFC08A;#DBAD70;#8AB1C0;#C08ABF;#8AC0A1;#c0c9af

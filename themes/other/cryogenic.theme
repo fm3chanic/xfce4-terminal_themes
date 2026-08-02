@@ -6,5 +6,5 @@ ColorBackground=#3a3d34
 ColorSelectionBackground=#58767e
 ColorSelection=#abbfc4
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#CEDC88
-ColorPalette=#55584b;#dd889d;#8cd9b3;#CEDC88;#8c9fd9;#d98cc6;#8cc6d9;#b4e2ee;#55584b;#dd889d;#8cd9b3;#CEDC88;#8c9fd9;#d98cc6;#8cc6d9;#b4e2ee
+TabActivityColor=#DCD587
+ColorPalette=#55584b;#DC8896;#93D0A2;#DCD587;#9398D0;#C193D1;#93B2D0;#b4e2ee;#55584b;#DC8896;#93D0A2;#DCD587;#9398D0;#C193D1;#93B2D0;#b4e2ee
