@@ -1,10 +1,10 @@
 [Scheme]
 Name=solarpunk
-ColorCursor=#bec2ad
-ColorForeground=#eceee8
-ColorBackground=#283f48
-ColorSelectionBackground=#5b727b
-ColorSelection=#bec2ad
+ColorCursor=#ADB298
+ColorForeground=#DADED3
+ColorBackground=#1B2B31
+ColorSelectionBackground=#4B5F66
+ColorSelection=#ADB298
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#ebba47
-ColorPalette=#3b5c68;#d65c5e;#afe085;#ebba47;#61a6d1;#F0F3BD;#61d1b1;#eceee8;#3b5c68;#d65c5e;#afe085;#ebba47;#61a6d1;#F0F3BD;#61d1b1;#eceee8
+ColorPalette=#2E4851;#d65c5e;#afe085;#ebba47;#61a6d1;#F0F3BD;#61d1b1;#DADED3;#2E4851;#d65c5e;#afe085;#ebba47;#61a6d1;#F0F3BD;#61d1b1;#DADED3
