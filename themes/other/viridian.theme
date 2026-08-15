@@ -1,10 +1,10 @@
 [Scheme]
 Name=viridian
-ColorCursor=#b7ac90
-ColorForeground=#d9d3c5
-ColorBackground=#37382F
-ColorSelectionBackground=#816d4c
-ColorSelection=#b7ac90
+ColorCursor=#bfbc95
+ColorForeground=#efeddc
+ColorBackground=#2b2f29
+ColorSelectionBackground=#575f52
+ColorSelection=#bfbc95
 ColorSelectionUseDefault=FALSE
-TabActivityColor=#D7BE74
-ColorPalette=#515246;#C48696;#B3C08A;#D7BE74;#8F8AC0;#B48AC0;#8AC0B2;#d9d3c5;#515246;#C48696;#B3C08A;#D7BE74;#8F8AC0;#B48AC0;#8AC0B2;#d9d3c5
+TabActivityColor=#c0a659
+ColorPalette=#454b41;#c17b71;#a2b77a;#c0a659;#8d7bb8;#b27bb8;#5fbab5;#efeddc;#454b41;#c17b71;#a2b77a;#c0a659;#8d7bb8;#b27bb8;#5fbab5;#efeddc
