@@ -1,0 +1,10 @@
+[Scheme]
+Name=megalith
+ColorCursor=#979d8b
+ColorForeground=#b9bdb1
+ColorBackground=#33362e
+ColorSelectionBackground=#616657
+ColorSelection=#979d8b
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#dcaf57
+ColorPalette=#4f5347;#cd7867;#91b87b;#dcaf57;#8d7bb8;#b17bb8;#7bb1b8;#b9bdb1;#4f5347;#cd7867;#91b87b;#dcaf57;#8d7bb8;#b17bb8;#7bb1b8;#b9bdb1

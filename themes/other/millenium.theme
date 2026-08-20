@@ -1,10 +1,10 @@
 [Scheme]
 Name=millenium
-ColorCursor=#938696
-ColorForeground=#b6adb8
-ColorBackground=#2f2a30
-ColorSelectionBackground=#554b57
-ColorSelection=#938696
+ColorCursor=#918993
+ColorForeground=#b5aeb7
+ColorBackground=#2e2b2f
+ColorSelectionBackground=#554d55
+ColorSelection=#918993
 ColorSelectionUseDefault=FALSE
 TabActivityColor=#fabf8f
-ColorPalette=#48404a;#da9694;#c4d79b;#fabf8f;#97b3d5;#b1a0c7;#92cddc;#b6adb8;#48404a;#da9694;#c4d79b;#fabf8f;#97b3d5;#b1a0c7;#92cddc;#b6adb8
+ColorPalette=#474248;#da9694;#c4d79b;#fabf8f;#97b3d5;#b1a0c7;#92cddc;#b5aeb7;#474248;#da9694;#c4d79b;#fabf8f;#97b3d5;#b1a0c7;#92cddc;#b5aeb7
