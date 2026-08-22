@@ -1,0 +1,10 @@
+[Scheme]
+Name=rain-world_main
+ColorCursor=#84A9B5
+ColorForeground=#B9DAE5
+ColorBackground=#282D2E
+ColorSelectionBackground=#62635B
+ColorSelection=#84A9B5
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#E0BE6B
+ColorPalette=#40494A;#BC758C;#A4B77A;#E0BE6B;#7E85CC;#BA77BA;#7BB8B7;#B9DAE5;#40494A;#BC758C;#A4B77A;#E0BE6B;#7E85CC;#BA77BA;#7BB8B7;#B9DAE5

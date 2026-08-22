@@ -1,0 +1,10 @@
+[Scheme]
+Name=rain-world_ocean
+ColorCursor=#779BC2
+ColorForeground=#BDCEE1
+ColorBackground=#233036
+ColorSelectionBackground=#426B7A
+ColorSelection=#779BC2
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#C9A172
+ColorPalette=#374C55;#BC758C;#A4B77A;#C9A172;#6C91C5;#B169A3;#7BB8B7;#BDCEE1;#374C55;#BC758C;#A4B77A;#C9A172;#6C91C5;#B169A3;#7BB8B7;#BDCEE1

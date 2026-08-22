@@ -1,0 +1,10 @@
+[Scheme]
+Name=rain-world_sea
+ColorCursor=#9B9FA0
+ColorForeground=#C6C9CE
+ColorBackground=#253227
+ColorSelectionBackground=#5A625D
+ColorSelection=#9B9FA0
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#E0BE6B
+ColorPalette=#3B503E;#BD748B;#A4B77A;#E0BE6B;#7E85CC;#BA77BA;#7BB8B7;#C6C9CE;#3B503E;#BD748B;#A4B77A;#E0BE6B;#7E85CC;#BA77BA;#7BB8B7;#C6C9CE

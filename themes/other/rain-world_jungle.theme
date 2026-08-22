@@ -1,0 +1,10 @@
+[Scheme]
+Name=rain-world_jungle
+ColorCursor=#A7BA7F
+ColorForeground=#D7E7B6
+ColorBackground=#2F3522
+ColorSelectionBackground=#6A7A42
+ColorSelection=#A7BA7F
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#E0BE6B
+ColorPalette=#4B5336;#BD748C;#7AB77A;#E0BE6B;#7E85CC;#BA77BA;#7BB8B7;#D7E7B6;#4B5336;#BD748C;#7AB77A;#E0BE6B;#7E85CC;#BA77BA;#7BB8B7;#D7E7B6
