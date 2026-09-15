@@ -1,0 +1,10 @@
+[Scheme]
+Name=storm_256colors
+ColorCursor=#87AFAF
+ColorForeground=#D7FFFF
+ColorBackground=#262626
+ColorSelectionBackground=#444444
+ColorSelection=#87AFAF
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#AFAF5F
+ColorPalette=#3A3A3A;#AF5F5F;#5FAF5F;#AFAF5F;#5F5FAF;#875FAF;#5FAFAF;#D7FFFF;#3A3A3A;#AF5F5F;#5FAF5F;#AFAF5F;#5F5FAF;#875FAF;#5FAFAF;#D7FFFF

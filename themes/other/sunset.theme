@@ -1,0 +1,10 @@
+[Scheme]
+Name=sunset
+ColorCursor=#C08A8A
+ColorForeground=#F0D9C3
+ColorBackground=#261E2E
+ColorSelectionBackground=#6C4760
+ColorSelection=#C08A8A
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#C1B970
+ColorPalette=#4E3349;#C17070;#8DB87A;#C1B970;#8A7AB8;#B07AB8;#7AB8B1;#F0D9C3;#4E3349;#C17070;#8DB87A;#C1B970;#8A7AB8;#B07AB8;#7AB8B1;#F0D9C3

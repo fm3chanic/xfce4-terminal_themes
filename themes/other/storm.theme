@@ -1,0 +1,10 @@
+[Scheme]
+Name=storm
+ColorCursor=#8CB1B5
+ColorForeground=#BEE1E5
+ColorBackground=#1E2426
+ColorSelectionBackground=#4A545E
+ColorSelection=#8CB1B5
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#B2A14D
+ColorPalette=#343E41;#B35D4C;#59A665;#B2A14D;#5361AC;#9159A6;#53ACA4;#BEE1E5;#343E41;#B35D4C;#59A665;#B2A14D;#5361AC;#9159A6;#53ACA4;#BEE1E5

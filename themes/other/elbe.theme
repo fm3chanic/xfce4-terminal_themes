@@ -1,0 +1,10 @@
+[Scheme]
+Name=elbe
+ColorCursor=#A9A18F
+ColorForeground=#D4D0C7
+ColorBackground=#362F22
+ColorSelectionBackground=#6F644E
+ColorSelection=#A9A18F
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D4944F
+ColorPalette=#564A35;#C3755F;#77966C;#D4944F;#738093;#AD7583;#679E95;#D4D0C7;#564A35;#C3755F;#77966C;#D4944F;#738093;#AD7583;#679E95;#D4D0C7

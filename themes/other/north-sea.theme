@@ -1,0 +1,10 @@
+[Scheme]
+Name=north-sea
+ColorCursor=#95A39D
+ColorForeground=#CBD2CF
+ColorBackground=#292F2C
+ColorSelectionBackground=#57655E
+ColorSelection=#95A39D
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D4944F
+ColorPalette=#404A45;#C3755F;#77966C;#D4944F;#738093;#AD7583;#679E95;#CBD2CF;#404A45;#C3755F;#77966C;#D4944F;#738093;#AD7583;#679E95;#CBD2CF

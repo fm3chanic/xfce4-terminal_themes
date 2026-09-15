@@ -1,0 +1,10 @@
+[Scheme]
+Name=viper_256colors
+ColorCursor=#87AF5F
+ColorForeground=#D7FFAF
+ColorBackground=#262626
+ColorSelectionBackground=#444444
+ColorSelection=#87AF5F
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#D7AF5F
+ColorPalette=#3A3A3A;#D75F5F;#5FAF5F;#D7AF5F;#875FAF;#D787AF;#5FAFAF;#D7FFAF;#3A3A3A;#D75F5F;#5FAF5F;#D7AF5F;#875FAF;#D787AF;#5FAFAF;#D7FFAF
