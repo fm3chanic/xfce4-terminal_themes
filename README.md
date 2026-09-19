@@ -1,5 +1,8 @@
 ## fm3chanic Themes for XFCE4-Terminal
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for the XFCE4 terminal emulator I've created so far.<br> 
 It is the main terminal emulator of the XFCE4 desktop environment for Linux.
 
